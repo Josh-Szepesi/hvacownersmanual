@@ -33,3 +33,15 @@ Minor leakage at accessible duct joints can be addressed by a homeowner. Use mas
 For larger systems or inaccessible ductwork, aeroseal duct sealing is a professional service where a technician pressurizes the duct system and injects a sealant mist that adheres to and seals leaks from the inside. It can treat leaks that are completely inaccessible from the outside and is highly effective.
 
 A professional duct leakage test, called a duct blaster test, can quantify exactly how much air your system is losing and identify where the worst leaks are. Many energy auditors offer this as part of a whole-home energy assessment.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[HVAC Foil Duct Tape](https://www.amazon.com/s?k=hvac+foil+duct+tape+professional)**
+- **[Duct Sealant Mastic](https://www.amazon.com/s?k=duct+sealant+mastic+hvac)**
+- **[Register Vent Covers](https://www.amazon.com/s?k=floor+register+vent+covers)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
