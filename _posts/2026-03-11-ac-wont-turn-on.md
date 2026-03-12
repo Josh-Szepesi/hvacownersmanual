@@ -45,3 +45,15 @@ If the indoor coil has frozen over, the system may have shut down or be operatin
 ## When to Call a Technician
 
 If you have worked through all of the above steps and the system still does not start, or starts briefly and shuts off again, it is time to call a professional. Low refrigerant, failed compressors, and control board issues require proper equipment and training to diagnose and repair safely.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Window Air Conditioner](https://www.amazon.com/s?k=window+air+conditioner+5000+btu)**
+- **[AC Coil Cleaner Spray](https://www.amazon.com/s?k=ac+coil+cleaner+spray+foam)**
+- **[AC Capacitor Replacement](https://www.amazon.com/s?k=ac+capacitor+replacement+hvac)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
