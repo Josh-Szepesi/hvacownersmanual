@@ -4,7 +4,13 @@ title: "What to Do When Your AC Won't Turn On: A Troubleshooting Guide"
 date: 2026-03-11
 ---
 
+
 Coming home on a hot day to find your air conditioner will not turn on is genuinely stressful. Before calling for a service call that may cost $100 to $200 just for the visit, work through this troubleshooting sequence. A significant percentage of AC no-start calls have simple causes that a homeowner can resolve in a few minutes.
+
+<div class="safety-note">
+**Safety Note:** Before inspecting any electrical components in your AC system, turn off the disconnect switch next to the outdoor unit AND the circuit breaker in your electrical panel. Capacitors in the unit can hold a lethal charge even after power is removed - do not touch capacitor terminals. If you smell burning or see scorched wiring, call an HVAC technician immediately. Test your CO detector before calling your system operational.
+</div>
+
 
 ## Step 1: Check the Thermostat
 
@@ -18,7 +24,7 @@ A severely clogged filter can restrict airflow to the point where the system's s
 
 ## Step 3: Check the Circuit Breakers
 
-The air conditioner's outdoor condenser unit and the indoor air handler typically have separate breakers in your electrical panel. Both must be in the ON position. Look for any breaker that is in the middle position (tripped) rather than fully on or fully off. Reset a tripped breaker by first pushing it firmly to OFF and then back to ON.
+The air conditioner's outdoor [condenser](/2026/03/11/how-to-clean-ac-condenser-coils.html) unit and the indoor air handler typically have separate breakers in your electrical panel. Both must be in the ON position. Look for any breaker that is in the middle position (tripped) rather than fully on or fully off. Reset a tripped breaker by first pushing it firmly to OFF and then back to ON.
 
 If the breaker trips again immediately, stop and call a technician. A breaker that repeatedly trips indicates an electrical fault in the equipment that requires professional diagnosis.
 
@@ -42,11 +48,22 @@ If the unit is completely silent and you have confirmed power is reaching it, th
 
 If the indoor coil has frozen over, the system may have shut down or be operating very poorly. Frozen coils are caused by restricted airflow (clogged filter or closed registers), low refrigerant, or a blower problem. Turn the system to FAN ONLY mode (not cooling) for two to four hours to allow the ice to thaw completely before restarting in cooling mode.
 
+
+The U.S. Department of Energy's [AC maintenance guide](https://www.energy.gov/energysaver/central-air-conditioning) provides homeowner-level guidance on troubleshooting and maintenance.
+
 ## When to Call a Technician
 
 If you have worked through all of the above steps and the system still does not start, or starts briefly and shuts off again, it is time to call a professional. Low refrigerant, failed compressors, and control board issues require proper equipment and training to diagnose and repair safely.
 
 ---
+---
+
+## Related Reading
+
+- [How to Clean AC Condenser Coils](/2026/03/11/how-to-clean-ac-condenser-coils.html)
+- [Understanding SEER Ratings](/2026/03/11/understanding-seer-ratings.html)
+
+If your AC is running but cooling poorly, the coils may be dirty. See our [How to Clean AC Condenser Coils guide](/2026/03/11/how-to-clean-ac-condenser-coils.html).
 
 ## Recommended Products
 
@@ -57,3 +74,8 @@ Here are a few products to help with what we covered in this guide:
 - **[AC Capacitor Replacement](https://www.amazon.com/s?k=ac+capacitor+replacement+hvac)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The HVAC Owners Manual team helps homeowners understand their heating and cooling systems - what's normal, what's not, and when it's time to call in a pro. Our guides are written to save you money and keep your system running right.</p>
+</div>
