@@ -39,3 +39,15 @@ Ceiling fans are a low-cost complement to duct balancing. In summer, set ceiling
 ## Attic Insulation and Air Sealing
 
 In summer, a hot attic directly above the upper floor is a major source of heat gain. Adding attic insulation to the recommended level for your climate zone, and air-sealing the attic floor to prevent conditioned air from escaping into the attic, is one of the highest-return improvements for second-floor comfort. This addresses the root cause rather than managing the symptom.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[HVAC Foil Duct Tape](https://www.amazon.com/s?k=hvac+foil+duct+tape+professional)**
+- **[Duct Sealant Mastic](https://www.amazon.com/s?k=duct+sealant+mastic+hvac)**
+- **[Register Vent Covers](https://www.amazon.com/s?k=floor+register+vent+covers)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
