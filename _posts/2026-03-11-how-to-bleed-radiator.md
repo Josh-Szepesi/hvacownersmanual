@@ -42,3 +42,15 @@ When you are finished bleeding all the radiators, check the boiler pressure gaug
 Run the heating system for an hour and check that the previously cold radiators are now heating uniformly from top to bottom. If cold spots remain, repeat the bleeding process, as some air pockets can be stubborn.
 
 Bleeding radiators takes about 20 minutes to work through an entire house and requires no special skills. Done once a year, it keeps your system running quietly and efficiently all winter.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Whole House Humidifier](https://www.amazon.com/s?k=whole+house+humidifier+furnace)**
+- **[Dehumidifier Basement](https://www.amazon.com/s?k=dehumidifier+basement+50+pint)**
+- **[Digital Hygrometer Monitor](https://www.amazon.com/s?k=digital+hygrometer+humidity+monitor)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
