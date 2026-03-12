@@ -37,3 +37,15 @@ Reassemble the top panel, restore power at the disconnect, and run the system to
 Once a year before cooling season is the standard recommendation. If you live in an area with heavy cottonwood, lots of trees, or dusty conditions, check the coils mid-season as well. A quick visual inspection only takes a moment: if you can see debris packed into the fins, it is time to clean them regardless of when you last did it.
 
 A clean condenser does not just save energy. It protects the most expensive component in your system and extends the life of your equipment by years.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Window Air Conditioner](https://www.amazon.com/s?k=window+air+conditioner+5000+btu)**
+- **[AC Coil Cleaner Spray](https://www.amazon.com/s?k=ac+coil+cleaner+spray+foam)**
+- **[AC Capacitor Replacement](https://www.amazon.com/s?k=ac+capacitor+replacement+hvac)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
