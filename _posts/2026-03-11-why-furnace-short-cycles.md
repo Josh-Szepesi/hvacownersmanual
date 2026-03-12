@@ -33,3 +33,13 @@ If the problem persists after those two checks, the flame sensor is the next mos
 If you have replaced the filter, verified the flue is clear, and the short cycling continues, it is time to call a professional. A technician can measure the heat exchanger temperature, test the flame sensor with a multimeter, check refrigerant levels on heat pump systems, and diagnose problems that are not visible during a basic inspection.
 
 Short cycling is hard on the furnace and hard on your heating bill. Addressing it early is always cheaper than replacing components that wear out prematurely.
+
+---
+
+## Recommended Products
+
+Here are a few products that can help with what we covered in this guide:
+
+- **[AC Capacitor Replacement Kit](https://www.amazon.com/s?k=ac)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
