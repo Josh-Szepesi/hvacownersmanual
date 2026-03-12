@@ -35,3 +35,15 @@ Many homeowners in cold climates use a dual-fuel system: a heat pump handles hea
 Heat pump equipment typically costs more to purchase and install than a comparable gas furnace. However, heat pumps eliminate the need for a separate air conditioning system, since they provide both heating and cooling. When you account for the cost of both a furnace and a central AC unit versus a single heat pump, the installed cost comparison shifts considerably.
 
 Federal tax credits and state incentives available in the United States have also made heat pump upgrades more financially attractive for many homeowners. Research what programs are available in your area before making a final decision.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Window Air Conditioner](https://www.amazon.com/s?k=window+air+conditioner+5000+btu)**
+- **[AC Coil Cleaner Spray](https://www.amazon.com/s?k=ac+coil+cleaner+spray+foam)**
+- **[AC Capacitor Replacement](https://www.amazon.com/s?k=ac+capacitor+replacement+hvac)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
