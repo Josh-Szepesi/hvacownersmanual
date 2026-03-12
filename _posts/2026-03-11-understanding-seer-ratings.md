@@ -35,3 +35,15 @@ Beyond energy savings, high-SEER units often include variable-speed compressors 
 SEER measures cooling efficiency. For heat pumps, you will also see HSPF (Heating Seasonal Performance Factor), which measures heating efficiency. For furnaces, AFUE (Annual Fuel Utilization Efficiency) measures what percentage of fuel is converted to heat. An 80% AFUE furnace loses 20% of its fuel up the flue; a 96% AFUE furnace loses only 4%.
 
 When comparing equipment, look at all the relevant ratings for your system type. Higher efficiency costs more upfront but pays back over time, particularly in climates where heating or cooling loads are high.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Smart Thermostat Energy Saving](https://www.amazon.com/s?k=smart+thermostat+energy+saving)**
+- **[Door Weatherstrip Seal](https://www.amazon.com/s?k=door+weatherstrip+seal+draft)**
+- **[Foam Tape Insulation](https://www.amazon.com/s?k=foam+tape+insulation+hvac)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
