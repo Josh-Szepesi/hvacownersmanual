@@ -4,13 +4,19 @@ title: "Why Your Furnace Is Short Cycling and How to Fix It"
 date: 2026-03-11
 ---
 
+
 Short cycling is one of the most common furnace complaints homeowners experience. It refers to the furnace turning on, running briefly for a minute or two, shutting off before the house reaches the set temperature, and then restarting shortly after. The cycle repeats over and over. Besides being annoying, short cycling puts extra wear on the furnace components, wastes energy, and often indicates a problem that will only get worse if left unaddressed.
+
+<div class="safety-note">
+**Safety Note:** Furnace short-cycling can be caused by a cracked heat exchanger, which allows combustion gases including CO to enter your home. Install and test CO detectors on every level before troubleshooting a short-cycling gas furnace. If you see cracks in the heat exchanger or detect CO, turn off the furnace and call a licensed HVAC technician immediately - do not continue to operate the unit.
+</div>
+
 
 ## What Causes Short Cycling?
 
 There are several possible causes, ranging from something you can fix in two minutes to issues that require a technician.
 
-**A clogged air filter** is the most common cause by far. When the filter is so restricted that airflow drops significantly, the furnace heat exchanger overheats. The high-limit switch, which is a safety device, detects this and shuts the burner off to prevent damage. Once the heat exchanger cools down, the furnace restarts, overheats again, and shuts off again. The fix is simply to replace the filter. This is worth checking before anything else.
+**A clogged [air filter](/2026/03/11/how-to-change-hvac-air-filter.html)** is the most common cause by far. When the filter is so restricted that airflow drops significantly, the furnace heat exchanger overheats. The high-limit switch, which is a safety device, detects this and shuts the burner off to prevent damage. Once the heat exchanger cools down, the furnace restarts, overheats again, and shuts off again. The fix is simply to replace the filter. This is worth checking before anything else.
 
 **An oversized furnace** is a less obvious but very common cause. When a furnace is too large for the home it is heating, it heats the space near the thermostat very quickly, triggering a shutdown before the rest of the house is warm. This is a design or installation problem, not something that develops over time. If your furnace has always short cycled since installation, oversizing may be the root cause.
 
@@ -28,6 +34,9 @@ Next, check the exhaust pipe outside for any obvious blockages. Walk around your
 
 If the problem persists after those two checks, the flame sensor is the next most likely culprit. Consult your furnace manual for its location, or search your furnace model number to find a diagram.
 
+
+The ASHRAE [technical FAQ on furnace operation and limit switches](https://www.ashrae.org/) provides technical context on what triggers short-cycle protection and why it exists.
+
 ## When to Call a Technician
 
 If you have replaced the filter, verified the flue is clear, and the short cycling continues, it is time to call a professional. A technician can measure the heat exchanger temperature, test the flame sensor with a multimeter, check refrigerant levels on heat pump systems, and diagnose problems that are not visible during a basic inspection.
@@ -35,6 +44,14 @@ If you have replaced the filter, verified the flue is clear, and the short cycli
 Short cycling is hard on the furnace and hard on your heating bill. Addressing it early is always cheaper than replacing components that wear out prematurely.
 
 ---
+---
+
+## Related Reading
+
+- [How to Change Your HVAC Air Filter](/2026/03/11/how-to-change-hvac-air-filter.html)
+- [Heat Pump vs Furnace](/2026/03/11/heat-pump-vs-furnace.html)
+
+A regularly changed filter is the best short-cycling prevention. See our [How to Change Your HVAC Air Filter guide](/2026/03/11/how-to-change-hvac-air-filter.html) for filter selection and change intervals.
 
 ## Recommended Products
 
@@ -43,3 +60,8 @@ Here are a few products that can help with what we covered in this guide:
 - **[AC Capacitor Replacement Kit](https://www.amazon.com/s?k=ac)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The HVAC Owners Manual team helps homeowners understand their heating and cooling systems - what's normal, what's not, and when it's time to call in a pro. Our guides are written to save you money and keep your system running right.</p>
+</div>
