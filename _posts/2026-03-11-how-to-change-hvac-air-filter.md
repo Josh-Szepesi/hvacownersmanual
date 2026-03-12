@@ -49,3 +49,15 @@ Slide the new filter in, close any latches or panels, and turn the system back o
 If you want to go beyond standard filter changes, whole-home air purifiers and UV light systems can be added to your existing ductwork. These are worth considering if someone in the household has serious allergies or a compromised immune system. That said, consistent filter changes will handle the majority of air quality concerns for most homes.
 
 Keeping up with this one simple task is the foundation of a well-maintained HVAC system. Future guides on this site will cover furnace tune-ups, AC maintenance, thermostat settings, and what to check before calling a technician.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[MERV 11 Air Filter HVAC](https://www.amazon.com/s?k=merv+11+air+filter+hvac+furnace)**
+- **[HEPA Filter Replacement](https://www.amazon.com/s?k=hepa+filter+replacement+air+purifier)**
+- **[Air Filter 6-Pack](https://www.amazon.com/s?k=air+filter+6+pack+merv+13)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
