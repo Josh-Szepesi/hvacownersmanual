@@ -47,3 +47,15 @@ Walk through the setup process in the thermostat's menu to configure your system
 ## Testing
 
 Set the thermostat above your current room temperature to call for heat, and verify that the furnace or heat pump starts and runs normally. Then set it below room temperature to call for cooling. Check that the fan runs independently when you set it to ON. If everything works correctly, your installation is complete.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Nest Learning Thermostat](https://www.amazon.com/s?k=nest+learning+thermostat+smart)**
+- **[Ecobee Smart Thermostat](https://www.amazon.com/s?k=ecobee+smart+thermostat+premium)**
+- **[Honeywell Programmable Thermostat](https://www.amazon.com/s?k=honeywell+programmable+thermostat)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
