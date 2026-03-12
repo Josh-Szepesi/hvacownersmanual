@@ -4,7 +4,13 @@ title: "Signs Your Ductwork Needs Sealing and Why It Matters"
 date: 2026-03-11
 ---
 
+
 The ductwork in your home is the distribution network for conditioned air. Depending on the age and condition of your house, your ducts may be leaking a significant portion of the air your HVAC system works to condition. The U.S. Department of Energy estimates that duct leakage in a typical home wastes 20 to 30 percent of the energy used for heating and cooling. Identifying and sealing duct leaks is one of the highest-return improvements you can make to a home's energy efficiency.
+
+<div class="safety-note">
+**Safety Note:** When sealing ducts in attics, crawlspaces, or tight utility rooms, ensure proper ventilation - mastic and some foil tapes emit fumes. Never use standard cloth duct tape on ducts; it fails quickly and can contaminate conditioned air. Duct sealing near gas appliances or furnaces should be inspected by a professional to ensure no combustion air pathway is affected.
+</div>
+
 
 ## How Duct Leakage Works
 
@@ -26,6 +32,9 @@ The result is a system that runs longer to achieve the set temperature, rooms th
 
 **Difficulty maintaining humidity levels.** Duct leakage into or out of unconditioned spaces throws off the humidity balance in the living area.
 
+
+The EPA's Energy Star program publishes [duct sealing guidance](https://www.energystar.gov/saveathome/seal_insulate/ducts) including DIY instructions and a description of professional duct blaster testing.
+
 ## What to Do About It
 
 Minor leakage at accessible duct joints can be addressed by a homeowner. Use mastic duct sealant, which is a thick paste applied with a brush, to seal joints and gaps. Mastic is preferred over tape because it remains flexible and does not dry out and fail over years the way standard duct tape does. Metal-backed foil tape rated for HVAC use is also acceptable for sheet metal ducts. Never use standard silver fabric duct tape on actual ducts; despite the name, it is not rated for the temperature cycling ductwork experiences and fails quickly.
@@ -35,6 +44,14 @@ For larger systems or inaccessible ductwork, aeroseal duct sealing is a professi
 A professional duct leakage test, called a duct blaster test, can quantify exactly how much air your system is losing and identify where the worst leaks are. Many energy auditors offer this as part of a whole-home energy assessment.
 
 ---
+---
+
+## Related Reading
+
+- [Improve Airflow in a Two-Story Home](/2026/03/11/improve-airflow-two-story-home.html)
+- [How to Change Your HVAC Air Filter](/2026/03/11/how-to-change-hvac-air-filter.html)
+
+Sealed ducts improve airflow throughout the house. Our [Improve Airflow in a Two-Story Home guide](/2026/03/11/improve-airflow-two-story-home.html) covers the next level of airflow optimization.
 
 ## Recommended Products
 
@@ -45,3 +62,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Register Vent Covers](https://www.amazon.com/s?k=floor+register+vent+covers)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The HVAC Owners Manual team helps homeowners understand their heating and cooling systems - what's normal, what's not, and when it's time to call in a pro. Our guides are written to save you money and keep your system running right.</p>
+</div>
