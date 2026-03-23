@@ -2,7 +2,9 @@
 layout: post
 title: "How to Improve Airflow in a Two-Story Home"
 date: 2026-03-11
+image: /assets/images/2026-03-11-improve-airflow-two-story-home.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -12,6 +14,11 @@ Uneven temperatures between floors are one of the most common comfort complaints
 **Safety Note:** Never block return air vents completely - restricting return airflow puts strain on the blower motor and can cause the heat exchanger to overheat. Duct modifications involving the main trunk lines or air handler should be done by a licensed HVAC contractor to maintain system balance and efficiency.
 </div>
 
+
+
+![How to Improve Airflow in a Two-Story Home](/assets/images/2026-03-11-improve-airflow-two-story-home.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@yvced?utm_source=artlines_blog&utm_medium=referral">Yves Cedric Schulze</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Why Two-Story Homes Have Airflow Problems
 
