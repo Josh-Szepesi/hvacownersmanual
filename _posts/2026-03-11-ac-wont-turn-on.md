@@ -2,7 +2,9 @@
 layout: post
 title: "What to Do When Your AC Won't Turn On: A Troubleshooting Guide"
 date: 2026-03-11
+image: /assets/images/2026-03-11-ac-wont-turn-on.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -12,6 +14,11 @@ Coming home on a hot day to find your air conditioner will not turn on is genuin
 **Safety Note:** Before inspecting any electrical components in your AC system, turn off the disconnect switch next to the outdoor unit AND the circuit breaker in your electrical panel. Capacitors in the unit can hold a lethal charge even after power is removed - do not touch capacitor terminals. If you smell burning or see scorched wiring, call an HVAC technician immediately. Test your CO detector before calling your system operational.
 </div>
 
+
+
+![What to Do When Your AC Won't Turn On: A Troubleshooting Guide](/assets/images/2026-03-11-ac-wont-turn-on.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@declansun?utm_source=artlines_blog&utm_medium=referral">Declan Sun</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Step 1: Check the Thermostat
 
