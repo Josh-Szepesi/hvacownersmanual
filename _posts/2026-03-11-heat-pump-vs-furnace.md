@@ -2,7 +2,9 @@
 layout: post
 title: "Heat Pump vs. Furnace: Which Is Right for Your Home?"
 date: 2026-03-11
+image: /assets/images/2026-03-11-heat-pump-vs-furnace.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -12,6 +14,11 @@ If you are replacing a heating system or building a new home, the choice between
 **Safety Note:** Gas furnace installations and repairs involving the gas line, heat exchanger, or combustion system must be performed by a licensed HVAC technician. A cracked heat exchanger can allow CO to enter your living space undetected - always have working CO detectors on every level of your home. If you smell gas, evacuate immediately and call your gas utility.
 </div>
 
+
+
+![Heat Pump vs. Furnace: Which Is Right for Your Home?](/assets/images/2026-03-11-heat-pump-vs-furnace.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@donguyenkhanhs?utm_source=artlines_blog&utm_medium=referral">Khanh Do</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## How Each Technology Works
 
