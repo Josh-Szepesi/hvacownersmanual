@@ -4,6 +4,7 @@ title: "How to Replace a Thermostat: A Complete Homeowner's Guide"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Replacing a thermostat is one of the most approachable HVAC projects a homeowner can tackle. Whether you are upgrading from a manual dial to a programmable model or switching to a smart thermostat, the process is straightforward and typically takes less than an hour. The wiring can look intimidating at first glance, but residential thermostats use a simple, standardized labeling system that makes the job manageable with basic tools.
 
@@ -71,11 +72,10 @@ A new thermostat pairs well with a cleaned system. Our [How to Change Your HVAC 
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Nest Learning Thermostat](https://www.amazon.com/s?k=nest+learning+thermostat+smart)**
-- **[Ecobee Smart Thermostat](https://www.amazon.com/s?k=ecobee+smart+thermostat+premium)**
-- **[Honeywell Programmable Thermostat](https://www.amazon.com/s?k=honeywell+programmable+thermostat)**
+- **[Nest Learning Thermostat](https://www.amazon.com/s?k=nest+learning+thermostat+smart&tag=mbbeekeeping-20)**
+- **[Ecobee Smart Thermostat](https://www.amazon.com/s?k=ecobee+smart+thermostat+premium&tag=mbbeekeeping-20)**
+- **[Honeywell Programmable Thermostat](https://www.amazon.com/s?k=honeywell+programmable+thermostat&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
