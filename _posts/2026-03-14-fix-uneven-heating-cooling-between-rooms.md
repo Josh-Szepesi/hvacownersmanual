@@ -3,13 +3,20 @@ layout: post
 title: "How to Fix Uneven Heating and Cooling Between Rooms"
 date: 2026-03-14
 description: "Uneven heating and cooling between rooms is frustrating and costly. Learn 7 proven fixes homeowners can do today to balance airflow and comfort."
+image: /assets/images/2026-03-14-fix-uneven-heating-cooling-between-rooms.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 If you've ever walked from a freezing bedroom into a sweltering living room, you already know how disruptive uneven heating and cooling can be. I've seen this problem in dozens of homes, and in most cases the fix has nothing to do with replacing the HVAC unit. The culprit is almost always airflow - too much going to one room, not enough reaching another. The good news is that most of the solutions are inexpensive, and several are free.
 
 **Safety Note:** Most airflow balancing work is safe for homeowners to do themselves. Do not force or bend duct dampers if you are unsure of their position - this can permanently restrict airflow to part of your home. If you find evidence of a duct leak near the furnace's heat exchanger, stop and call a licensed HVAC technician before doing anything else. A cracked or leaking heat exchanger can allow carbon monoxide to enter your living space. Make sure you have a working CO detector installed on every floor before doing any HVAC work.
+
+
+![How to Fix Uneven Heating and Cooling Between Rooms](/assets/images/2026-03-14-fix-uneven-heating-cooling-between-rooms.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@bansahphotography248?utm_source=artlines_blog&utm_medium=referral">Bansah Photography</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Why Rooms Heat and Cool Unevenly
 
@@ -122,4 +129,3 @@ If your home is two stories and the upper floor is the persistent problem zone, 
   <p><strong>About the Author</strong></p>
   <p>The HVAC Owners Manual team helps homeowners understand their heating and cooling systems - what's normal, what's not, and when it's time to call in a pro. Our guides are written to save you money and keep your system running right.</p>
 </div>
-
