@@ -3,13 +3,20 @@ layout: post
 title: "How to Clean a Mini-Split Filter and Coil (Step-by-Step Guide)"
 date: 2026-03-18
 description: "Learn exactly how to clean a mini-split filter and coil yourself. Save money on HVAC service calls and keep your mini-split running efficiently year-round."
+image: /assets/images/2026-03-18-how-to-clean-mini-split-filter-and-coil.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Mini-split systems are low-maintenance compared to central HVAC, but "low-maintenance" does not mean "no maintenance." I have found that most homeowners skip coil cleaning for years because the indoor unit sits high on the wall and the filters are out of easy reach - out of sight, out of mind. A dirty mini-split filter and clogged evaporator coil reduce efficiency, degrade indoor air quality, and can cause ice buildup that shuts the unit down entirely. Cleaning both components takes about 30-45 minutes and costs almost nothing.
 
 **Safety Note:** Before you open the front panel or touch any part of the mini-split, turn the unit completely off using the remote or wall switch, then cut power at the circuit breaker. Never spray liquids near the electrical connections at the side of the indoor unit. If you notice the coil has ice on it, do not attempt to clean it - let it thaw completely first by switching the unit to fan-only mode for 30-60 minutes. If you see any burn marks, smell something electrical, or notice refrigerant oil residue around the coil, stop and call a licensed HVAC technician. Those are signs of a deeper problem that a cleaning is not going to fix.
+
+
+![How to Clean a Mini-Split Filter and Coil (Step-by-Step Guide)](/assets/images/2026-03-18-how-to-clean-mini-split-filter-and-coil.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@simplicity?utm_source=artlines_blog&utm_medium=referral">Marija Zaric</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What You Need Before You Start
 
