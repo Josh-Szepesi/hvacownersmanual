@@ -3,13 +3,20 @@ layout: post
 title: "What Does a Furnace Tune-Up Actually Include?"
 date: 2026-03-16
 description: "Wondering what a furnace tune-up includes? I break down every step techs perform, what they charge, and whether it's worth the money for your home."
+image: /assets/images/2026-03-16-what-does-furnace-tune-up-include.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Most homeowners schedule a furnace tune-up because their utility bill crept up or someone told them to. But if you ask what actually happens during that appointment, you'll usually get a shrug. I've talked to enough HVAC technicians and homeowners to know that the tune-up process varies widely between companies - and understanding what you're paying for helps you ask the right questions and spot the ones cutting corners.
 
 **Safety Note:** Furnace work involves natural gas, combustion byproducts, and electrical components. Before any DIY inspection, turn off the furnace at the thermostat and switch the power off at the breaker. If you ever smell gas near the furnace, do not touch any switches - leave the house and call your gas utility immediately. A licensed technician should handle any repairs involving the gas valve, heat exchanger, or flue system. I strongly recommend keeping a working CO detector within 10 feet of your furnace at all times - carbon monoxide from a cracked heat exchanger can be fatal before you notice symptoms.
+
+
+![What Does a Furnace Tune-Up Actually Include?](/assets/images/2026-03-16-what-does-furnace-tune-up-include.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@cubeofwood?utm_source=artlines_blog&utm_medium=referral">Yuri Krupenin</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What a Furnace Tune-Up Is (and Is Not)
 
@@ -129,4 +136,3 @@ If your furnace is coming up on its annual service, our guide on short-cycling w
   <p><strong>About the Author</strong></p>
   <p>The HVAC Owners Manual team helps homeowners understand their heating and cooling systems - what's normal, what's not, and when it's time to call in a pro. Our guides are written to save you money and keep your system running right.</p>
 </div>
-
