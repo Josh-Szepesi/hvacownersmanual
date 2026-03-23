@@ -3,5 +3,7 @@ description: "HVAC troubleshooting and DIY maintenance guides for homeowners. Fi
 url: "https://hvacownersmanual.com"
 baseurl: ""
 theme: minima
+permalink: /:year/:month/:day/:title
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
