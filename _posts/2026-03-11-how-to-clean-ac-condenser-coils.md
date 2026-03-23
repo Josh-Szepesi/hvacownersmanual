@@ -2,7 +2,9 @@
 layout: post
 title: "How to Clean Your AC Condenser Coils: A Homeowner Step-by-Step Guide"
 date: 2026-03-11
+image: /assets/images/2026-03-11-how-to-clean-ac-condenser-coils.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -12,6 +14,11 @@ Your air conditioner's condenser unit sits outside and works hard all summer. Th
 **Safety Note:** Turn off power to the outdoor unit at the disconnect box before cleaning. Fin edges are sharp - wear gloves. Never use a pressure washer on coils; use a garden hose on a gentle setting. Do not use strong acids or alkaline cleaners without confirming compatibility with your specific coil coating. If you see refrigerant oil stains around the coil connections, you may have a leak - call a certified technician before running the system.
 </div>
 
+
+
+![How to Clean Your AC Condenser Coils: A Homeowner Step-by-Step Guide](/assets/images/2026-03-11-how-to-clean-ac-condenser-coils.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@sql?utm_source=artlines_blog&utm_medium=referral">sq lim</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## How Condenser Coils Work
 
