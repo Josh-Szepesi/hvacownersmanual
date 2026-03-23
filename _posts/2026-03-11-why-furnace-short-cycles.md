@@ -2,7 +2,9 @@
 layout: post
 title: "Why Your Furnace Is Short Cycling and How to Fix It"
 date: 2026-03-11
+image: /assets/images/2026-03-11-why-furnace-short-cycles.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -12,6 +14,11 @@ Short cycling is one of the most common furnace complaints homeowners experience
 **Safety Note:** Furnace short-cycling can be caused by a cracked heat exchanger, which allows combustion gases including CO to enter your home. Install and test CO detectors on every level before troubleshooting a short-cycling gas furnace. If you see cracks in the heat exchanger or detect CO, turn off the furnace and call a licensed HVAC technician immediately - do not continue to operate the unit.
 </div>
 
+
+
+![Why Your Furnace Is Short Cycling and How to Fix It](/assets/images/2026-03-11-why-furnace-short-cycles.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@rodrigocuri?utm_source=artlines_blog&utm_medium=referral">Rodrigo Curi</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What Causes Short Cycling?
 
