@@ -2,7 +2,9 @@
 layout: post
 title: "How to Replace a Thermostat: A Complete Homeowner's Guide"
 date: 2026-03-11
+image: /assets/images/2026-03-11-how-to-replace-thermostat.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -12,6 +14,11 @@ Replacing a thermostat is one of the most approachable HVAC projects a homeowner
 **Safety Note:** Always turn off power to your HVAC system at the breaker before touching any thermostat wiring. Take a photo of your existing wiring before disconnecting anything. If your system uses a C-wire (common wire) and your new thermostat requires one that isn't present, installing one improperly can damage your control board - consult a technician in that case.
 </div>
 
+
+
+![How to Replace a Thermostat: A Complete Homeowner's Guide](/assets/images/2026-03-11-how-to-replace-thermostat.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@sableflow?utm_source=artlines_blog&utm_medium=referral">Sable Flow</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Before You Start
 
