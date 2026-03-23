@@ -2,7 +2,9 @@
 layout: post
 title: "How to Change Your HVAC Air Filter: A Complete Homeowner's Guide"
 date: 2026-03-11
+image: /assets/images/2026-03-11-how-to-change-hvac-air-filter.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -12,6 +14,11 @@ Changing your HVAC air filter is the single most important maintenance task a ho
 **Safety Note:** Always turn your HVAC system off before changing the filter to avoid pulling unfiltered air through the system while the filter is removed. Dispose of old filters in a sealed bag to avoid redistributing trapped particles. If your filter is extremely dirty or you see mold growth, have a technician inspect the system before running it again.
 </div>
 
+
+
+![How to Change Your HVAC Air Filter: A Complete Homeowner's Guide](/assets/images/2026-03-11-how-to-change-hvac-air-filter.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@purzlbaum?utm_source=artlines_blog&utm_medium=referral">Claudio Schwarz</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Why the Air Filter Matters
 
