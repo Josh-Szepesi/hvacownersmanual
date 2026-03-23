@@ -4,6 +4,7 @@ title: "Signs Your Ductwork Needs Sealing and Why It Matters"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 The ductwork in your home is the distribution network for conditioned air. Depending on the age and condition of your house, your ducts may be leaking a significant portion of the air your HVAC system works to condition. The U.S. Department of Energy estimates that duct leakage in a typical home wastes 20 to 30 percent of the energy used for heating and cooling. Identifying and sealing duct leaks is one of the highest-return improvements you can make to a home's energy efficiency.
 
@@ -57,11 +58,10 @@ Sealed ducts improve airflow throughout the house. Our [Improve Airflow in a Two
 
 Here are a few products to help with what we covered in this guide:
 
-- **[HVAC Foil Duct Tape](https://www.amazon.com/s?k=hvac+foil+duct+tape+professional)**
-- **[Duct Sealant Mastic](https://www.amazon.com/s?k=duct+sealant+mastic+hvac)**
-- **[Register Vent Covers](https://www.amazon.com/s?k=floor+register+vent+covers)**
+- **[HVAC Foil Duct Tape](https://www.amazon.com/s?k=hvac+foil+duct+tape+professional&tag=mbbeekeeping-20)**
+- **[Duct Sealant Mastic](https://www.amazon.com/s?k=duct+sealant+mastic+hvac&tag=mbbeekeeping-20)**
+- **[Register Vent Covers](https://www.amazon.com/s?k=floor+register+vent+covers&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
