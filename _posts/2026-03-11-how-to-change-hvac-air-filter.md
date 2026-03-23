@@ -4,6 +4,7 @@ title: "How to Change Your HVAC Air Filter: A Complete Homeowner's Guide"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Changing your HVAC air filter is the single most important maintenance task a homeowner can do. It takes less than five minutes, costs a few dollars, and protects a system worth thousands. Yet surveys consistently show that most homeowners change their filters far less often than recommended. This guide walks you through everything you need to know.
 
@@ -75,11 +76,10 @@ A clean filter improves airflow through the whole system. If you have uneven tem
 
 Here are a few products to help with what we covered in this guide:
 
-- **[MERV 11 Air Filter HVAC](https://www.amazon.com/s?k=merv+11+air+filter+hvac+furnace)**
-- **[HEPA Filter Replacement](https://www.amazon.com/s?k=hepa+filter+replacement+air+purifier)**
-- **[Air Filter 6-Pack](https://www.amazon.com/s?k=air+filter+6+pack+merv+13)**
+- **[MERV 11 Air Filter HVAC](https://www.amazon.com/s?k=merv+11+air+filter+hvac+furnace&tag=mbbeekeeping-20)**
+- **[HEPA Filter Replacement](https://www.amazon.com/s?k=hepa+filter+replacement+air+purifier&tag=mbbeekeeping-20)**
+- **[Air Filter 6-Pack](https://www.amazon.com/s?k=air+filter+6+pack+merv+13&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
