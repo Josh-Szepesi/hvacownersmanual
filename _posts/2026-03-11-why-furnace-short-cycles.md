@@ -4,6 +4,7 @@ title: "Why Your Furnace Is Short Cycling and How to Fix It"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Short cycling is one of the most common furnace complaints homeowners experience. It refers to the furnace turning on, running briefly for a minute or two, shutting off before the house reaches the set temperature, and then restarting shortly after. The cycle repeats over and over. Besides being annoying, short cycling puts extra wear on the furnace components, wastes energy, and often indicates a problem that will only get worse if left unaddressed.
 
@@ -57,9 +58,8 @@ A regularly changed filter is the best short-cycling prevention. See our [How to
 
 Here are a few products that can help with what we covered in this guide:
 
-- **[AC Capacitor Replacement Kit](https://www.amazon.com/s?k=ac)**
+- **[AC Capacitor Replacement Kit](https://www.amazon.com/s?k=ac&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
