@@ -2,7 +2,9 @@
 layout: post
 title: "How to Bleed a Hot Water Radiator: Removing Air for Better Heat"
 date: 2026-03-11
+image: /assets/images/2026-03-11-how-to-bleed-radiator.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -12,6 +14,11 @@ If you have a home with hot water radiators and some of them feel cool at the to
 **Safety Note:** Radiator water can be very hot - always let the system cool for at least 30 minutes before bleeding. Have a towel and a bucket ready for water overflow. If your boiler pressure drops significantly after bleeding, you'll need to refill it via the fill valve - consult your boiler manual before adjusting pressure. If you're unsure about your boiler's pressure rating, call a heating professional.
 </div>
 
+
+
+![How to Bleed a Hot Water Radiator: Removing Air for Better Heat](/assets/images/2026-03-11-how-to-bleed-radiator.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@brett_jordan?utm_source=artlines_blog&utm_medium=referral">Brett Jordan</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## How Hot Water Radiator Systems Work
 
