@@ -2,7 +2,9 @@
 layout: post
 title: "Signs Your Ductwork Needs Sealing and Why It Matters"
 date: 2026-03-11
+image: /assets/images/2026-03-11-signs-ductwork-needs-sealing.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -12,6 +14,11 @@ The ductwork in your home is the distribution network for conditioned air. Depen
 **Safety Note:** When sealing ducts in attics, crawlspaces, or tight utility rooms, ensure proper ventilation - mastic and some foil tapes emit fumes. Never use standard cloth duct tape on ducts; it fails quickly and can contaminate conditioned air. Duct sealing near gas appliances or furnaces should be inspected by a professional to ensure no combustion air pathway is affected.
 </div>
 
+
+
+![Signs Your Ductwork Needs Sealing and Why It Matters](/assets/images/2026-03-11-signs-ductwork-needs-sealing.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@redaquamedia?utm_source=artlines_blog&utm_medium=referral">Denny Müller</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## How Duct Leakage Works
 
