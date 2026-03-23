@@ -4,6 +4,7 @@ title: "What to Do When Your AC Won't Turn On: A Troubleshooting Guide"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Coming home on a hot day to find your air conditioner will not turn on is genuinely stressful. Before calling for a service call that may cost $100 to $200 just for the visit, work through this troubleshooting sequence. A significant percentage of AC no-start calls have simple causes that a homeowner can resolve in a few minutes.
 
@@ -69,11 +70,10 @@ If your AC is running but cooling poorly, the coils may be dirty. See our [How t
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Window Air Conditioner](https://www.amazon.com/s?k=window+air+conditioner+5000+btu)**
-- **[AC Coil Cleaner Spray](https://www.amazon.com/s?k=ac+coil+cleaner+spray+foam)**
-- **[AC Capacitor Replacement](https://www.amazon.com/s?k=ac+capacitor+replacement+hvac)**
+- **[Window Air Conditioner](https://www.amazon.com/s?k=window+air+conditioner+5000+btu&tag=mbbeekeeping-20)**
+- **[AC Coil Cleaner Spray](https://www.amazon.com/s?k=ac+coil+cleaner+spray+foam&tag=mbbeekeeping-20)**
+- **[AC Capacitor Replacement](https://www.amazon.com/s?k=ac+capacitor+replacement+hvac&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
