@@ -5,6 +5,8 @@ date: 2026-03-16
 description: "Wondering what a furnace tune-up includes? I break down every step techs perform, what they charge, and whether it's worth the money for your home."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
 Most homeowners schedule a furnace tune-up because their utility bill crept up or someone told them to. But if you ask what actually happens during that appointment, you'll usually get a shrug. I've talked to enough HVAC technicians and homeowners to know that the tune-up process varies widely between companies - and understanding what you're paying for helps you ask the right questions and spot the ones cutting corners.
 
 **Safety Note:** Furnace work involves natural gas, combustion byproducts, and electrical components. Before any DIY inspection, turn off the furnace at the thermostat and switch the power off at the breaker. If you ever smell gas near the furnace, do not touch any switches - leave the house and call your gas utility immediately. A licensed technician should handle any repairs involving the gas valve, heat exchanger, or flue system. I strongly recommend keeping a working CO detector within 10 feet of your furnace at all times - carbon monoxide from a cracked heat exchanger can be fatal before you notice symptoms.
@@ -19,7 +21,7 @@ I have found that the best technicians treat a tune-up as a diagnostic inspectio
 
 ### Filter Inspection and Replacement
 
-The technician should check your air filter and either replace it or note its condition. Some companies include a standard 1-inch filter in the service price; others charge extra. In my experience, most tune-up packages include a basic fiberglass filter, but if you use a [high-MERV filter like a MERV 11 or 13](https://www.amazon.com/s?k=MERV+13+furnace+filter), you'll want to supply your own or confirm the tech carries the right size.
+The technician should check your air filter and either replace it or note its condition. Some companies include a standard 1-inch filter in the service price; others charge extra. In my experience, most tune-up packages include a basic fiberglass filter, but if you use a [high-MERV filter like a MERV 11 or 13](https://www.amazon.com/s?k=MERV+13+furnace+filter&tag=mbbeekeeping-20), you'll want to supply your own or confirm the tech carries the right size.
 
 Filter replacement takes 5 minutes. If that's all the tech does during a "tune-up," ask for an itemized explanation of everything else.
 
@@ -128,4 +130,3 @@ If your furnace is coming up on its annual service, our guide on short-cycling w
   <p>The HVAC Owners Manual team helps homeowners understand their heating and cooling systems - what's normal, what's not, and when it's time to call in a pro. Our guides are written to save you money and keep your system running right.</p>
 </div>
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
