@@ -4,6 +4,7 @@ title: "How to Improve Airflow in a Two-Story Home"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Uneven temperatures between floors are one of the most common comfort complaints in two-story homes. The upper floor is too hot in summer and the lower floor is too cold in winter, or vice versa, despite the thermostat showing the set temperature. This is a physics problem as much as an HVAC problem. Heat rises, cold air sinks, and a single thermostat cannot simultaneously measure conditions on two floors. With the right combination of adjustments, you can significantly improve comfort throughout the house.
 
@@ -63,11 +64,10 @@ Airflow problems are often duct problems. See our [Signs Your Ductwork Needs Sea
 
 Here are a few products to help with what we covered in this guide:
 
-- **[HVAC Foil Duct Tape](https://www.amazon.com/s?k=hvac+foil+duct+tape+professional)**
-- **[Duct Sealant Mastic](https://www.amazon.com/s?k=duct+sealant+mastic+hvac)**
-- **[Register Vent Covers](https://www.amazon.com/s?k=floor+register+vent+covers)**
+- **[HVAC Foil Duct Tape](https://www.amazon.com/s?k=hvac+foil+duct+tape+professional&tag=mbbeekeeping-20)**
+- **[Duct Sealant Mastic](https://www.amazon.com/s?k=duct+sealant+mastic+hvac&tag=mbbeekeeping-20)**
+- **[Register Vent Covers](https://www.amazon.com/s?k=floor+register+vent+covers&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
