@@ -4,6 +4,7 @@ title: "Heat Pump vs. Furnace: Which Is Right for Your Home?"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 If you are replacing a heating system or building a new home, the choice between a heat pump and a gas furnace is one of the most consequential decisions you will make for long-term comfort and energy costs. Both technologies work well, but they have meaningfully different characteristics that make each the better choice in different situations.
 
@@ -59,11 +60,10 @@ Whichever system you have, thermostat programming makes a significant difference
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Window Air Conditioner](https://www.amazon.com/s?k=window+air+conditioner+5000+btu)**
-- **[AC Coil Cleaner Spray](https://www.amazon.com/s?k=ac+coil+cleaner+spray+foam)**
-- **[AC Capacitor Replacement](https://www.amazon.com/s?k=ac+capacitor+replacement+hvac)**
+- **[Window Air Conditioner](https://www.amazon.com/s?k=window+air+conditioner+5000+btu&tag=mbbeekeeping-20)**
+- **[AC Coil Cleaner Spray](https://www.amazon.com/s?k=ac+coil+cleaner+spray+foam&tag=mbbeekeeping-20)**
+- **[AC Capacitor Replacement](https://www.amazon.com/s?k=ac+capacitor+replacement+hvac&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
