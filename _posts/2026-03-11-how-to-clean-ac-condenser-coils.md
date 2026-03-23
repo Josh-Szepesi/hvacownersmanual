@@ -4,6 +4,7 @@ title: "How to Clean Your AC Condenser Coils: A Homeowner Step-by-Step Guide"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Your air conditioner's condenser unit sits outside and works hard all summer. The condenser coils are responsible for releasing the heat your AC pulls out of your home, and over time they collect an impressive amount of dirt, grass clippings, cottonwood fluff, and debris. When those coils get clogged, your system has to work harder to do the same job, your energy bill climbs, and the compressor runs hotter than it should. Cleaning the condenser coils once a year is one of the most effective things you can do to keep your AC running efficiently.
 
@@ -61,11 +62,10 @@ If your AC still isn't cooling after coil cleaning, our [AC Won't Turn On guide]
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Window Air Conditioner](https://www.amazon.com/s?k=window+air+conditioner+5000+btu)**
-- **[AC Coil Cleaner Spray](https://www.amazon.com/s?k=ac+coil+cleaner+spray+foam)**
-- **[AC Capacitor Replacement](https://www.amazon.com/s?k=ac+capacitor+replacement+hvac)**
+- **[Window Air Conditioner](https://www.amazon.com/s?k=window+air+conditioner+5000+btu&tag=mbbeekeeping-20)**
+- **[AC Coil Cleaner Spray](https://www.amazon.com/s?k=ac+coil+cleaner+spray+foam&tag=mbbeekeeping-20)**
+- **[AC Capacitor Replacement](https://www.amazon.com/s?k=ac+capacitor+replacement+hvac&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
