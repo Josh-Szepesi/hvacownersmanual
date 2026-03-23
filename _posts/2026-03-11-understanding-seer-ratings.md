@@ -2,11 +2,18 @@
 layout: post
 title: "Understanding HVAC SEER Ratings: What They Mean for Your Energy Bill"
 date: 2026-03-11
+image: /assets/images/2026-03-11-understanding-seer-ratings.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 If you have ever shopped for a new air conditioner or [heat pump](/2026/03/11/heat-pump-vs-furnace.html), you have seen the term SEER on every unit. SEER stands for Seasonal Energy Efficiency Ratio, and it is the primary number used to compare the energy efficiency of cooling equipment. Understanding what SEER means in practical terms helps you make a better purchasing decision and set realistic expectations about your energy costs.
+
+
+![Understanding HVAC SEER Ratings: What They Mean for Your Energy Bill](/assets/images/2026-03-11-understanding-seer-ratings.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@bingyenstudio?utm_source=artlines_blog&utm_medium=referral">BINGYEN STUDIO</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What SEER Actually Measures
 
