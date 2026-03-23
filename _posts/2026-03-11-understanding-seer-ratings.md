@@ -4,6 +4,7 @@ title: "Understanding HVAC SEER Ratings: What They Mean for Your Energy Bill"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 If you have ever shopped for a new air conditioner or [heat pump](/2026/03/11/heat-pump-vs-furnace.html), you have seen the term SEER on every unit. SEER stands for Seasonal Energy Efficiency Ratio, and it is the primary number used to compare the energy efficiency of cooling equipment. Understanding what SEER means in practical terms helps you make a better purchasing decision and set realistic expectations about your energy costs.
 
@@ -54,11 +55,10 @@ Understanding SEER helps when comparing systems. See our [Heat Pump vs Furnace g
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Smart Thermostat Energy Saving](https://www.amazon.com/s?k=smart+thermostat+energy+saving)**
-- **[Door Weatherstrip Seal](https://www.amazon.com/s?k=door+weatherstrip+seal+draft)**
-- **[Foam Tape Insulation](https://www.amazon.com/s?k=foam+tape+insulation+hvac)**
+- **[Smart Thermostat Energy Saving](https://www.amazon.com/s?k=smart+thermostat+energy+saving&tag=mbbeekeeping-20)**
+- **[Door Weatherstrip Seal](https://www.amazon.com/s?k=door+weatherstrip+seal+draft&tag=mbbeekeeping-20)**
+- **[Foam Tape Insulation](https://www.amazon.com/s?k=foam+tape+insulation+hvac&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
