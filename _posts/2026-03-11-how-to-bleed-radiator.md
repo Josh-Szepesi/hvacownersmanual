@@ -4,6 +4,7 @@ title: "How to Bleed a Hot Water Radiator: Removing Air for Better Heat"
 date: 2026-03-11
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 If you have a home with hot water radiators and some of them feel cool at the top while warm at the bottom, or make gurgling and banging sounds when the heat runs, the problem is almost certainly trapped air. Air gets into the system over time, rises to the top of the radiators, and prevents hot water from filling those sections. The fix is called bleeding the radiator, and it is one of the simplest HVAC maintenance tasks a homeowner can do.
 
@@ -66,11 +67,10 @@ After bleeding, check your thermostat settings are optimized. Our [How to Replac
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Whole House Humidifier](https://www.amazon.com/s?k=whole+house+humidifier+furnace)**
-- **[Dehumidifier Basement](https://www.amazon.com/s?k=dehumidifier+basement+50+pint)**
-- **[Digital Hygrometer Monitor](https://www.amazon.com/s?k=digital+hygrometer+humidity+monitor)**
+- **[Whole House Humidifier](https://www.amazon.com/s?k=whole+house+humidifier+furnace&tag=mbbeekeeping-20)**
+- **[Dehumidifier Basement](https://www.amazon.com/s?k=dehumidifier+basement+50+pint&tag=mbbeekeeping-20)**
+- **[Digital Hygrometer Monitor](https://www.amazon.com/s?k=digital+hygrometer+humidity+monitor&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
