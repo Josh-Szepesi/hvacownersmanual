@@ -26,7 +26,7 @@ Your HVAC system circulates all the air in your home multiple times per day. The
 
 The consequences of a neglected filter go beyond discomfort. Restricted airflow is one of the leading causes of early HVAC failure. Replacing a furnace or air handler runs anywhere from $2,000 to $7,000 or more. A $10 filter changed every 60 to 90 days is cheap insurance.
 
-## How Often Should You Change It?
+## How Often Should You Change It
 
 The standard guidance is every 90 days for a basic fiberglass filter, and every 30 to 60 days for pleated filters rated MERV 8 to 13. However, several factors push that interval shorter:
 
