@@ -20,7 +20,7 @@ Short cycling is one of the most common furnace complaints homeowners experience
 
 <p class="image-credit">Photo by <a href="https://unsplash.com/@rodrigocuri?utm_source=artlines_blog&utm_medium=referral">Rodrigo Curi</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
-## What Causes Short Cycling
+## What Causes Short Cycling?
 
 There are several possible causes, ranging from something you can fix in two minutes to issues that require a technician.
 
