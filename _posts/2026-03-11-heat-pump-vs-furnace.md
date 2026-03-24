@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Heat Pump vs. Furnace: Which Is Right for Your Home"
+title: "Heat Pump vs. Furnace: Which Is Right for Your Home?"
 date: 2026-03-11
 image: /assets/images/2026-03-11-heat-pump-vs-furnace.jpg
 ---
@@ -16,7 +16,7 @@ If you are replacing a heating system or building a new home, the choice between
 
 
 
-![Heat Pump vs. Furnace: Which Is Right for Your Home](/assets/images/2026-03-11-heat-pump-vs-furnace.jpg)
+![Heat Pump vs. Furnace: Which Is Right for Your Home?](/assets/images/2026-03-11-heat-pump-vs-furnace.jpg)
 
 <p class="image-credit">Photo by <a href="https://unsplash.com/@donguyenkhanhs?utm_source=artlines_blog&utm_medium=referral">Khanh Do</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
