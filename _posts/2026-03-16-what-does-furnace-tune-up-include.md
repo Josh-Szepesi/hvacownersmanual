@@ -28,7 +28,7 @@ I have found that the best technicians treat a tune-up as a diagnostic inspectio
 
 ### Filter Inspection and Replacement
 
-The technician should check your air filter and either replace it or note its condition. Some companies include a standard 1-inch filter in the service price; others charge extra. In my experience, most tune-up packages include a basic fiberglass filter, but if you use a [high-MERV filter like a MERV 11 or 13](https://www.amazon.com/s?k=MERV+13+furnace+filter&tag=mbbeekeeping-20), you'll want to supply your own or confirm the tech carries the right size.
+The technician should check your air filter and either replace it or note its condition. Some companies include a standard 1-inch filter in the service price; others charge extra. In my experience, most tune-up packages include a basic fiberglass filter, but if you use a [high-MERV filter like a MERV 11 or 13](https://www.amazon.com/s?k=MERV+13+furnace+filter), you'll want to supply your own or confirm the tech carries the right size.
 
 Filter replacement takes 5 minutes. If that's all the tech does during a "tune-up," ask for an itemized explanation of everything else.
 
