@@ -71,9 +71,9 @@ Airflow problems are often duct problems. See our [Signs Your Ductwork Needs Sea
 
 Here are a few products to help with what we covered in this guide:
 
-- **[HVAC Foil Duct Tape](https://www.amazon.com/s?k=hvac+foil+duct+tape+professional&tag=mbbeekeeping-20)**
-- **[Duct Sealant Mastic](https://www.amazon.com/s?k=duct+sealant+mastic+hvac&tag=mbbeekeeping-20)**
-- **[Register Vent Covers](https://www.amazon.com/s?k=floor+register+vent+covers&tag=mbbeekeeping-20)**
+- **[HVAC Foil Duct Tape](https://www.amazon.com/s?k=hvac+foil+duct+tape+professional)**
+- **[Duct Sealant Mastic](https://www.amazon.com/s?k=duct+sealant+mastic+hvac)**
+- **[Register Vent Covers](https://www.amazon.com/s?k=floor+register+vent+covers)**
 
 
 <div class="author-bio">
