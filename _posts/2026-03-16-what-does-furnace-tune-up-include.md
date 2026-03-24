@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "What Does a Furnace Tune-Up Actually Include?"
+title: "What Does a Furnace Tune-Up Actually Include"
 date: 2026-03-16
-description: "Wondering what a furnace tune-up includes? I break down every step techs perform, what they charge, and whether it's worth the money for your home."
+description: "Wondering what a furnace tune-up includes I break down every step techs perform, what they charge, and whether it's worth the money for your home."
 image: /assets/images/2026-03-16-what-does-furnace-tune-up-include.jpg
 ---
 
@@ -14,7 +14,7 @@ Most homeowners schedule a furnace tune-up because their utility bill crept up o
 **Safety Note:** Furnace work involves natural gas, combustion byproducts, and electrical components. Before any DIY inspection, turn off the furnace at the thermostat and switch the power off at the breaker. If you ever smell gas near the furnace, do not touch any switches - leave the house and call your gas utility immediately. A licensed technician should handle any repairs involving the gas valve, heat exchanger, or flue system. I strongly recommend keeping a working CO detector within 10 feet of your furnace at all times - carbon monoxide from a cracked heat exchanger can be fatal before you notice symptoms.
 
 
-![What Does a Furnace Tune-Up Actually Include?](/assets/images/2026-03-16-what-does-furnace-tune-up-include.jpg)
+![What Does a Furnace Tune-Up Actually Include](/assets/images/2026-03-16-what-does-furnace-tune-up-include.jpg)
 
 <p class="image-credit">Photo by <a href="https://unsplash.com/@cubeofwood?utm_source=artlines_blog&utm_medium=referral">Yuri Krupenin</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
@@ -92,7 +92,7 @@ Be skeptical of extremely low prices - a $49 tune-up often means a filter change
 
 Some contractors offer annual maintenance agreements that cover both the furnace (fall) and AC (spring) for a flat fee, usually $150-$250 per year. If your equipment is more than 5 years old, I find these plans worth the price for the peace of mind alone.
 
-## Is a Furnace Tune-Up Worth It?
+## Is a Furnace Tune-Up Worth It
 
 I'd answer yes for most homeowners, with one condition: you need to verify the company you hire actually performs a thorough inspection. A real tune-up extends equipment life, maintains efficiency, and - most importantly - catches heat exchanger cracks before they become a CO hazard.
 
