@@ -78,7 +78,7 @@ While the cleaner works, use a damp microfiber cloth to wipe down the inside of 
 
 Once the filters are completely dry and the coil cleaner has had time to work, slide the filters back into their slots - same orientation they came out. Close the front panel by pressing it down until it clicks. Restore power at the breaker, then run the unit on a medium fan setting for 10-15 minutes before switching to normal operation. This flushes any remaining cleaner residue through the drain and lets you check that the filters are seated correctly before you put the unit back to work.
 
-## How Often Should You Clean a Mini-Split Filter?
+## How Often Should You Clean a Mini-Split Filter
 
 Most manufacturers recommend cleaning the filters every 2-4 weeks in regular use. That sounds frequent, but it takes about 5 minutes and a quick rinse - it is not a major task. Deep coil cleaning should happen at least once a year. If you run the system heavily (year-round in a hot or humid climate), I would clean the coil twice a year - once before cooling season and once before heating season.
 
@@ -130,7 +130,7 @@ Visible black or green spotting on the coil or fan blades is the obvious sign. A
 
 - [How to Change Your HVAC Air Filter (Step-by-Step)](https://hvacownersmanual.com/2026/03/11/how-to-change-hvac-air-filter)
 - [How to Clean AC Condenser Coils](https://hvacownersmanual.com/2026/03/11/how-to-clean-ac-condenser-coils)
-- [What Does a Furnace Tune-Up Actually Include?](https://hvacownersmanual.com/2026/03/16/what-does-furnace-tune-up-include)
+- [What Does a Furnace Tune-Up Actually Include](https://hvacownersmanual.com/2026/03/16/what-does-furnace-tune-up-include)
 
 If you want to understand more about HVAC filter ratings and how to choose the right filter for your system, my guide on [understanding SEER ratings and why they matter](https://hvacownersmanual.com/2026/03/11/understanding-seer-ratings) is a solid next read.
 
