@@ -67,9 +67,9 @@ Whichever system you have, thermostat programming makes a significant difference
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Window Air Conditioner](https://www.amazon.com/s?k=window+air+conditioner+5000+btu&tag=mbbeekeeping-20)**
-- **[AC Coil Cleaner Spray](https://www.amazon.com/s?k=ac+coil+cleaner+spray+foam&tag=mbbeekeeping-20)**
-- **[AC Capacitor Replacement](https://www.amazon.com/s?k=ac+capacitor+replacement+hvac&tag=mbbeekeeping-20)**
+- **[Window Air Conditioner](https://www.amazon.com/s?k=window+air+conditioner+5000+btu)**
+- **[AC Coil Cleaner Spray](https://www.amazon.com/s?k=ac+coil+cleaner+spray+foam)**
+- **[AC Capacitor Replacement](https://www.amazon.com/s?k=ac+capacitor+replacement+hvac)**
 
 
 <div class="author-bio">
