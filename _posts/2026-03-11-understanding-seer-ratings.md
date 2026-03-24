@@ -23,7 +23,7 @@ As a reference, the minimum SEER rating allowed for new residential air conditio
 
 Note that in 2023, the industry transitioned to a new metric called SEER2, which uses updated testing conditions that more closely reflect real-world installation. A SEER2 rating is slightly lower than the equivalent old SEER rating for the same unit, so do not compare them directly.
 
-## How Much Does a Higher SEER Rating Save?
+## How Much Does a Higher SEER Rating Save
 
 The savings from a higher SEER unit depend on several factors: your local electricity rate, how many hours per year you run your AC, and what SEER unit you are replacing.
 
@@ -31,7 +31,7 @@ A rough calculation helps illustrate the difference. If you currently have a 10 
 
 Online calculators from utilities and HVAC manufacturers can give you a more precise estimate based on your location, home size, and current system.
 
-## Is It Worth Paying More for a High-SEER Unit?
+## Is It Worth Paying More for a High-SEER Unit
 
 The answer depends on your climate, how long you plan to stay in the home, and the price premium of the higher-efficiency unit.
 
