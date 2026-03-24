@@ -109,7 +109,7 @@ Keep this checklist somewhere useful - a note in your phone, a tag on the unit i
 
 ---
 
-*Have questions about your specific heat pump setup? Drop a comment below.*
+*Have questions about your specific heat pump setup Drop a comment below.*
 
 ---
 
