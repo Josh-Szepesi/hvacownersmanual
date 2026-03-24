@@ -74,9 +74,9 @@ After bleeding, check your thermostat settings are optimized. Our [How to Replac
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Whole House Humidifier](https://www.amazon.com/s?k=whole+house+humidifier+furnace&tag=mbbeekeeping-20)**
-- **[Dehumidifier Basement](https://www.amazon.com/s?k=dehumidifier+basement+50+pint&tag=mbbeekeeping-20)**
-- **[Digital Hygrometer Monitor](https://www.amazon.com/s?k=digital+hygrometer+humidity+monitor&tag=mbbeekeeping-20)**
+- **[Whole House Humidifier](https://www.amazon.com/s?k=whole+house+humidifier+furnace)**
+- **[Dehumidifier Basement](https://www.amazon.com/s?k=dehumidifier+basement+50+pint)**
+- **[Digital Hygrometer Monitor](https://www.amazon.com/s?k=digital+hygrometer+humidity+monitor)**
 
 
 <div class="author-bio">
