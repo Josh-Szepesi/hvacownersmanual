@@ -79,9 +79,9 @@ A new thermostat pairs well with a cleaned system. Our [How to Change Your HVAC 
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Nest Learning Thermostat](https://www.amazon.com/s?k=nest+learning+thermostat+smart&tag=mbbeekeeping-20)**
-- **[Ecobee Smart Thermostat](https://www.amazon.com/s?k=ecobee+smart+thermostat+premium&tag=mbbeekeeping-20)**
-- **[Honeywell Programmable Thermostat](https://www.amazon.com/s?k=honeywell+programmable+thermostat&tag=mbbeekeeping-20)**
+- **[Nest Learning Thermostat](https://www.amazon.com/s?k=nest+learning+thermostat+smart)**
+- **[Ecobee Smart Thermostat](https://www.amazon.com/s?k=ecobee+smart+thermostat+premium)**
+- **[Honeywell Programmable Thermostat](https://www.amazon.com/s?k=honeywell+programmable+thermostat)**
 
 
 <div class="author-bio">
