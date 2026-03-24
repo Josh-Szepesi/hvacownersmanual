@@ -25,7 +25,7 @@ Gathering your supplies before you get on the ladder saves a lot of back-and-for
 - A ladder or step stool tall enough to reach the indoor unit comfortably
 - A soft brush or old toothbrush
 - A spray bottle with warm water and a few drops of dish soap
-- [No-rinse evaporator coil cleaner](https://www.amazon.com/s?k=no+rinse+evaporator+coil+cleaner&tag=mbbeekeeping-20) - this is the most important product for the job
+- [No-rinse evaporator coil cleaner](https://www.amazon.com/s?k=no+rinse+evaporator+coil+cleaner) - this is the most important product for the job
 - Microfiber cloths
 - A plastic bag or light tarp to protect the floor and wall from drips
 - A flashlight
@@ -98,7 +98,7 @@ For general coil cleaning on your central system, the process is similar - see m
 
 ## Fin Damage and What to Do About It
 
-Evaporator fins are thin aluminum strips that bend easily. A few bent fins will not tank your efficiency, but a large area of flattened fins restricts airflow enough to reduce performance meaningfully. A [fin comb](https://www.amazon.com/s?k=HVAC+fin+comb+straightener&tag=mbbeekeeping-20) is a cheap tool designed specifically to straighten bent fins - you run it along the coil in the same direction as the fin channels. I have used one to restore coils that looked like they needed professional attention. It is not difficult, but it takes patience. Do not rush it.
+Evaporator fins are thin aluminum strips that bend easily. A few bent fins will not tank your efficiency, but a large area of flattened fins restricts airflow enough to reduce performance meaningfully. A [fin comb](https://www.amazon.com/s?k=HVAC+fin+comb+straightener) is a cheap tool designed specifically to straighten bent fins - you run it along the coil in the same direction as the fin channels. I have used one to restore coils that looked like they needed professional attention. It is not difficult, but it takes patience. Do not rush it.
 
 ---
 
