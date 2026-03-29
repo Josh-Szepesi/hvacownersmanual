@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Understanding HVAC SEER Ratings: What They Mean for Your Energy Bill"
+description: "SEER ratings determine how efficiently your AC or heat pump runs — understand what the numbers mean and how to use them when comparing and buying new equipment."
 date: 2026-03-11
 image: /assets/images/2026-03-11-understanding-seer-ratings.jpg
 ---
