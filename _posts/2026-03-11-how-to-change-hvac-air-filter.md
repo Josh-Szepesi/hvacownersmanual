@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Change Your HVAC Air Filter: A Complete Homeowner's Guide"
+description: "Changing your HVAC air filter is the highest-value maintenance task a homeowner can do — learn the right size, MERV rating, and how often to replace it."
 date: 2026-03-11
 image: /assets/images/2026-03-11-how-to-change-hvac-air-filter.jpg
 ---
