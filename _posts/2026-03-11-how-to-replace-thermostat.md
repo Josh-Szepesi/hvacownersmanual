@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Replace a Thermostat: A Complete Homeowner's Guide"
+description: "Replacing a thermostat is one of the most accessible HVAC upgrades you can do yourself — a complete wiring and installation guide for homeowners at any skill level."
 date: 2026-03-11
 image: /assets/images/2026-03-11-how-to-replace-thermostat.jpg
 ---
