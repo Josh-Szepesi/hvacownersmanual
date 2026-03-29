@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Bleed a Hot Water Radiator: Removing Air for Better Heat"
+description: "A hot water radiator that's cool at the top or making gurgling sounds needs bleeding — learn how to bleed a radiator safely and restore even heat to the room."
 date: 2026-03-11
 image: /assets/images/2026-03-11-how-to-bleed-radiator.jpg
 ---
