@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Clean Your AC Condenser Coils: A Homeowner Step-by-Step Guide"
+description: "Dirty AC condenser coils make your system work harder and raise your electricity bill — a step-by-step homeowner guide to cleaning them safely each season."
 date: 2026-03-11
 image: /assets/images/2026-03-11-how-to-clean-ac-condenser-coils.jpg
 ---
