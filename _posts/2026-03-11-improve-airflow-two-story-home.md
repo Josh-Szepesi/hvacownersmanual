@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Improve Airflow in a Two-Story Home"
+description: "Uneven temperatures between floors in a two-story home have fixable causes — damper adjustments, zoning strategies, and airflow improvements that actually work."
 date: 2026-03-11
 image: /assets/images/2026-03-11-improve-airflow-two-story-home.jpg
 ---
