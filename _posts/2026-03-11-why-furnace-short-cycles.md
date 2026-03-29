@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Your Furnace Is Short Cycling and How to Fix It"
+description: "Furnace short cycling — turning on and shutting off before completing a heat cycle — wastes fuel and stresses components. Learn every common cause and fix."
 date: 2026-03-11
 image: /assets/images/2026-03-11-why-furnace-short-cycles.jpg
 ---
