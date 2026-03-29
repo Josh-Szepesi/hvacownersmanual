@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Heat Pump vs. Furnace: Which Is Right for Your Home?"
+description: "Choosing between a heat pump and a gas furnace affects decades of energy costs — a practical comparison covering efficiency, climate fit, and upfront investment."
 date: 2026-03-11
 image: /assets/images/2026-03-11-heat-pump-vs-furnace.jpg
 ---
