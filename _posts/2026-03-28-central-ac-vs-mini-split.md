@@ -14,7 +14,7 @@ Homeowners replacing or adding cooling often run into the same question: should 
 
 <p class="image-credit">Photo by <a href="https://unsplash.com/@andrianspace?utm_source=artlines_blog&utm_medium=referral">Andrianto Cahyono Putro</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
-> **Safety Note:** Both central AC and mini-split systems use refrigerants that require EPA Section 608 certification to handle legally. Never attempt to add or recover refrigerant yourself. If you suspect a refrigerant leak - signs include ice on the coil, warm air from the vents, or hissing sounds - shut the system off and call a licensed HVAC technician. We also strongly recommend having a working carbon monoxide detector on every floor of your home, especially if you use a gas furnace alongside your cooling system. See our HVAC annual maintenance checklist for a full rundown of seasonal safety checks.
+> **Safety Note:** Both central AC and mini-split systems use refrigerants that require EPA Section 608 certification to handle legally. Never attempt to add or recover refrigerant yourself. If you suspect a refrigerant leak - signs include ice on the coil, warm air from the vents, or hissing sounds - shut the system off and call a licensed HVAC technician. We also strongly recommend having a working carbon monoxide detector on every floor of your home, especially if you use a gas furnace alongside your cooling system. See our [HVAC annual maintenance checklist](/2026/03/29/hvac-annual-maintenance-checklist/) for a full rundown of seasonal safety checks.
 
 ## What Is Central Air Conditioning?
 
