@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Furnace Not Igniting: Common Causes and Fixes"
+description: "A furnace that won't ignite usually has one of a few fixable causes — learn to diagnose whether it's the igniter, flame sensor, gas valve, or thermostat first."
 date: 2026-03-26
 image: /assets/images/2026-03-26-furnace-not-igniting.jpg
 ---
