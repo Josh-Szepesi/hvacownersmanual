@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What to Do When Your AC Won't Turn On: A Troubleshooting Guide"
+description: "AC won't turn on? Work through this step-by-step troubleshooting guide — from tripped breakers and blown fuses to frozen coils — before calling a service tech."
 date: 2026-03-11
 image: /assets/images/2026-03-11-ac-wont-turn-on.jpg
 ---
