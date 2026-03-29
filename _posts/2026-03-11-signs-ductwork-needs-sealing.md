@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Signs Your Ductwork Needs Sealing and Why It Matters"
+description: "Leaky ductwork silently wastes conditioned air and drives up your energy bills — learn the warning signs your ducts need sealing and the most effective fixes."
 date: 2026-03-11
 image: /assets/images/2026-03-11-signs-ductwork-needs-sealing.jpg
 ---
