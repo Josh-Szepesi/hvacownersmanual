@@ -90,7 +90,7 @@ For more on how to keep your home's air moving evenly, our guide on [improving a
 These three filters represent solid choices at different MERV levels. All prices fluctuate, but the quality-to-cost ratio has been consistent.
 
 **Budget everyday use - Filtrete 600 MPR (roughly MERV 8):** A reliable standard-performance filter from 3M that fits most systems and handles everyday household dust and pollen without restricting airflow.
-[Filtrete 600 MPR Air Filter on Amazon](https://www.amazon.com/dp/B001AYF4CQ)
+[Filtrete 600 MPR Air Filter on Amazon](https://www.amazon.com/dp/B07FNQT8YX)
 
 **Best for most homes - Filtrete 1500 MPR High Performance (roughly MERV 12):** This is the filter we recommend to most homeowners as a default upgrade. It captures pet dander, mold spores, and fine dust while still working with virtually all residential systems.
 [Filtrete 1500 MPR Filter on Amazon](https://www.amazon.com/dp/B01DXBZJOG)
