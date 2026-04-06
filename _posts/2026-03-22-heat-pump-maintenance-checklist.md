@@ -101,7 +101,7 @@ A few tasks are firmly in the licensed-technician category: adding or recovering
 
 **[Malco Fin Comb for AC Condenser and Evaporator Fins](https://www.amazon.com/dp/B00004TUGN)** - A multi-tooth comb that fits multiple fin spacings. After rinsing the outdoor unit, work any visibly bent fin sections with this comb to restore airflow. The Malco is the tool HVAC technicians actually use - it is more precise and less likely to cause additional damage than improvised tools.
 
-**[Simple Green 0610001213414 Purple Coil Cleaner](https://www.amazon.com/dp/B001AMYRAU)** - A biodegradable, non-acid cleaner well-suited for outdoor condenser coils. Dilute per the instructions, apply with a brush or pump sprayer, let it soak for a few minutes to break down organic buildup, then rinse with a hose. Effective on the kind of pollen and cottonwood buildup that accumulates over a full season.
+**[Simple Green 0610001213414 Purple Coil Cleaner](https://www.amazon.com/dp/B00DM8KQ3I)** - A biodegradable, non-acid cleaner well-suited for outdoor condenser coils. Dilute per the instructions, apply with a brush or pump sprayer, let it soak for a few minutes to break down organic buildup, then rinse with a hose. Effective on the kind of pollen and cottonwood buildup that accumulates over a full season.
 
 ---
 
