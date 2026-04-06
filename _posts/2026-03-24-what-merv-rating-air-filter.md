@@ -96,7 +96,7 @@ These three filters represent solid choices at different MERV levels. All prices
 [Filtrete 1500 MPR Filter on Amazon](https://www.amazon.com/dp/B01DXBZJOG)
 
 **For allergy and sensitivity households - Nordic Pure MERV 12 Air Filter:** A no-frills MERV 12 filter that often comes in multipacks at a lower price per unit than branded alternatives. Good choice if you are changing filters frequently.
-[Nordic Pure MERV 12 Filter on Amazon](https://www.amazon.com/dp/B0087J1SCS)
+[Nordic Pure MERV 12 Filter on Amazon](https://www.amazon.com/dp/B004QL75UM)
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
