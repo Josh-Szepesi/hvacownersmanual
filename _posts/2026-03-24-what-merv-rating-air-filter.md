@@ -93,7 +93,7 @@ These three filters represent solid choices at different MERV levels. All prices
 [Filtrete 600 MPR Air Filter on Amazon](https://www.amazon.com/dp/B07FNQT8YX)
 
 **Best for most homes - Filtrete 1500 MPR High Performance (roughly MERV 12):** This is the filter we recommend to most homeowners as a default upgrade. It captures pet dander, mold spores, and fine dust while still working with virtually all residential systems.
-[Filtrete 1500 MPR Filter on Amazon](https://www.amazon.com/dp/B01DXBZJOG)
+[Filtrete 1500 MPR Filter on Amazon](https://www.amazon.com/dp/B00I8K3K2I)
 
 **For allergy and sensitivity households - Nordic Pure MERV 12 Air Filter:** A no-frills MERV 12 filter that often comes in multipacks at a lower price per unit than branded alternatives. Good choice if you are changing filters frequently.
 [Nordic Pure MERV 12 Filter on Amazon](https://www.amazon.com/dp/B004QL75UM)
