@@ -34,7 +34,7 @@ The fix is straightforward: turn off power to the furnace at the breaker, locate
 
 Silicon carbide igniters are fragile and typically last 4 to 7 years. When functioning, the igniter glows bright orange during the startup sequence. If you watch through the sight glass and see no glow, or if the igniter is visibly cracked, it needs replacement.
 
-Never handle a ceramic igniter with bare hands - oils from skin create hot spots that shorten its life. A [universal hot surface furnace igniter](https://www.amazon.com/dp/B07WNQHCXF) fits most residential gas furnaces; always verify the replacement wattage against your furnace's data plate before ordering.
+Never handle a ceramic igniter with bare hands - oils from skin create hot spots that shorten its life. A [universal hot surface furnace igniter](https://www.amazon.com/dp/B07WNQHCXF?tag=hvacowners-20) fits most residential gas furnaces; always verify the replacement wattage against your furnace's data plate before ordering.
 
 ### No Gas Supply
 
@@ -60,7 +60,7 @@ If you have checked the above and the furnace still will not ignite, the control
 
 A basic digital multimeter is the most useful diagnostic tool for furnace troubleshooting. You can use it to test igniter continuity (a working silicon carbide igniter typically reads 40 to 200 ohms), check for 24V at the gas valve terminals during a call for heat, and confirm the flame sensor is producing a microamp signal.
 
-The [Klein Tools MM400 auto-ranging multimeter](https://www.amazon.com/dp/B01ISAMUA6) handles all of these tests and is a good investment for any homeowner who wants to diagnose HVAC and electrical issues themselves. Pair it with your furnace's service manual (usually available as a PDF from the manufacturer) and the control board's error code chart, and you can usually identify the fault without guessing.
+The [Klein Tools MM400 auto-ranging multimeter](https://www.amazon.com/dp/B01ISAMUA6?tag=hvacowners-20) handles all of these tests and is a good investment for any homeowner who wants to diagnose HVAC and electrical issues themselves. Pair it with your furnace's service manual (usually available as a PDF from the manufacturer) and the control board's error code chart, and you can usually identify the fault without guessing.
 
 ## When to Stop and Call a Pro
 
@@ -72,9 +72,9 @@ The U.S. Department of Energy's [home heating guide](https://www.energy.gov/ener
 
 ## Recommended Products
 
-- [Supplying Demand Universal Hot Surface Furnace Igniter](https://www.amazon.com/dp/B07WNQHCXF) - Fits most residential gas furnaces. Verify replacement wattage against your unit's data plate before ordering.
-- [Klein Tools MM400 Auto-Ranging Multimeter](https://www.amazon.com/dp/B01ISAMUA6) - Reliable diagnostic tool for testing igniters, flame sensors, and gas valve voltage.
-- [Kidde Carbon Monoxide Detector with Digital Display](https://www.amazon.com/dp/B00M4IOULS) - Required safety equipment in any home with gas appliances. Replace the unit every 5 to 7 years regardless of battery status.
+- [Supplying Demand Universal Hot Surface Furnace Igniter](https://www.amazon.com/dp/B07WNQHCXF?tag=hvacowners-20) - Fits most residential gas furnaces. Verify replacement wattage against your unit's data plate before ordering.
+- [Klein Tools MM400 Auto-Ranging Multimeter](https://www.amazon.com/dp/B01ISAMUA6?tag=hvacowners-20) - Reliable diagnostic tool for testing igniters, flame sensors, and gas valve voltage.
+- [Kidde Carbon Monoxide Detector with Digital Display](https://www.amazon.com/dp/B00M4IOULS?tag=hvacowners-20) - Required safety equipment in any home with gas appliances. Replace the unit every 5 to 7 years regardless of battery status.
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
