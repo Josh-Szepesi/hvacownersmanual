@@ -62,7 +62,7 @@ Whole-house humidifiers connect directly to your furnace and water supply. They 
 
 The two most common types are bypass humidifiers (like the AprilAire 500M, which routes a portion of the airflow across a water panel) and fan-powered humidifiers (which have their own blower and can run even when the furnace fan is off, making them effective in well-sealed homes or those with heat pumps).
 
-The [AprilAire 500M Whole-House Humidifier](https://www.amazon.com/dp/B0CG9251Z8) is a widely recommended bypass model for homes up to 3,600 sq ft. It uses a replaceable water panel rather than a tank, and the manual control makes it straightforward to set and forget.
+The [AprilAire 500M Whole-House Humidifier](https://www.amazon.com/dp/B0CG9251Z8?tag=hvacowners-20) is a widely recommended bypass model for homes up to 3,600 sq ft. It uses a replaceable water panel rather than a tank, and the manual control makes it straightforward to set and forget.
 
 | Feature | Portable Humidifier | Whole-House Humidifier |
 |---|---|---|
@@ -89,7 +89,7 @@ Current guidance from Energy Star:
 - Moderately humid space (2,000-3,000 sq ft): 50-pint unit
 - Very damp basement or large humid area: 70-pint unit
 
-The [Midea Cube 50 Pint Dehumidifier](https://www.amazon.com/dp/B0915DV55B) is one of the most consistently recommended standalone units for home use. It covers up to 4,500 sq ft, includes a drain hose so you do not have to empty the tank manually, and qualifies as Energy Star Most Efficient. In our assessment of consumer feedback and independent testing, it is the dehumidifier to start with for a humid basement or large open-plan space.
+The [Midea Cube 50 Pint Dehumidifier](https://www.amazon.com/dp/B0915DV55B?tag=hvacowners-20) is one of the most consistently recommended standalone units for home use. It covers up to 4,500 sq ft, includes a drain hose so you do not have to empty the tank manually, and qualifies as Energy Star Most Efficient. In our assessment of consumer feedback and independent testing, it is the dehumidifier to start with for a humid basement or large open-plan space.
 
 ### Standalone vs. whole-house dehumidifiers
 
@@ -108,7 +108,7 @@ Whole-house dehumidifiers install inline with your HVAC ductwork and dehumidify 
 
 You cannot manage what you are not measuring. A basic digital hygrometer runs $10-$25 and tells you the current temperature and relative humidity at a glance. Put one in the main living area and one in the basement.
 
-The [TempPro TP50 Digital Hygrometer](https://www.amazon.com/dp/B01H1R0K68) is a reliable, well-reviewed option. It displays both temperature and humidity on a simple screen with no subscription or app required. Stick one near the thermostat and another in any problem area.
+The [TempPro TP50 Digital Hygrometer](https://www.amazon.com/dp/B01H1R0K68?tag=hvacowners-20) is a reliable, well-reviewed option. It displays both temperature and humidity on a simple screen with no subscription or app required. Stick one near the thermostat and another in any problem area.
 
 **Step-by-step setup for year-round humidity management:**
 
