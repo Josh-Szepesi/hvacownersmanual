@@ -42,7 +42,7 @@ Central AC installation for a home with existing ductwork typically runs $3,500 
 
 A single-zone mini-split professionally installed runs $2,000 to $5,000 depending on the brand, BTU capacity, and complexity of the refrigerant line run. A multi-zone system covering three or four rooms often runs $8,000 to $14,000 installed.
 
-DIY-friendly mini-split kits like the [MRCOOL DIY 12,000 BTU Ductless Mini-Split (ASIN: B07B3H6YXT)](https://www.amazon.com/dp/B07B3H6YXT) have changed this calculation for some homeowners. These use pre-charged refrigerant lines that connect without requiring a technician to recover or recharge refrigerant. We have spoken to homeowners who completed a single-zone DIY installation in a weekend, cutting the labor cost to near zero. Note that some local codes still require a permit and inspection even for DIY systems - check with your city before starting.
+DIY-friendly mini-split kits like the [MRCOOL DIY 12,000 BTU Ductless Mini-Split (ASIN: B07B3H6YXT)](https://www.amazon.com/dp/B07B3H6YXT?tag=hvacowners-20) have changed this calculation for some homeowners. These use pre-charged refrigerant lines that connect without requiring a technician to recover or recharge refrigerant. We have spoken to homeowners who completed a single-zone DIY installation in a weekend, cutting the labor cost to near zero. Note that some local codes still require a permit and inspection even for DIY systems - check with your city before starting.
 
 ### Operating Costs
 
@@ -54,7 +54,7 @@ If your central AC is older (10 to 15 years) and your ducts are leaky, the opera
 
 SEER2 (Seasonal Energy Efficiency Ratio) is the standard measure for cooling efficiency. Higher is better. [Energy Star certified](https://www.energystar.gov/products/heating_cooling/heat_pumps_ductless_mini_split) mini-splits typically carry SEER2 ratings of 18 to 25+, while most central AC units land between 15 and 22 SEER2.
 
-The [Pioneer WYS012GMFI17RL 12,000 BTU Wall Mount Mini-Split (ASIN: B07FQKP3Z3)](https://www.amazon.com/dp/B07FQKP3Z3) is a commonly cited entry-level option with a SEER rating of 17 - solid efficiency for the price point. Higher-end inverter units from brands like Mitsubishi, Daikin, and LG push into the mid-20s, which is where operating cost savings really add up over time.
+The [Pioneer WYS012GMFI17RL 12,000 BTU Wall Mount Mini-Split (ASIN: B07FQKP3Z3)](https://www.amazon.com/dp/B07FQKP3Z3?tag=hvacowners-20) is a commonly cited entry-level option with a SEER rating of 17 - solid efficiency for the price point. Higher-end inverter units from brands like Mitsubishi, Daikin, and LG push into the mid-20s, which is where operating cost savings really add up over time.
 
 ## When Central AC Makes More Sense
 
@@ -85,15 +85,15 @@ For DIY-friendly systems (primarily MRCOOL DIY and a few comparable brands), a r
 
 For conventional mini-splits (Pioneer, Mitsubishi, Daikin, LG, and most others), you will need a licensed technician to connect and charge the refrigerant lines. The equipment itself may cost less, but you cannot legally skip the technician step.
 
-We also recommend keeping a carbon monoxide detector on every floor any time you are doing HVAC work in a home with gas appliances. The [Kidde 900-0076 Carbon Monoxide Detector (ASIN: B00CYIYNQ6)](https://www.amazon.com/dp/B00CYIYNQ6) is a reliable plug-in unit that does not require battery changes. Running it during and after HVAC work gives you an early warning if combustion equipment gets disturbed.
+We also recommend keeping a carbon monoxide detector on every floor any time you are doing HVAC work in a home with gas appliances. The [Kidde 900-0076 Carbon Monoxide Detector (ASIN: B00CYIYNQ6)](https://www.amazon.com/dp/B00CYIYNQ6?tag=hvacowners-20) is a reliable plug-in unit that does not require battery changes. Running it during and after HVAC work gives you an early warning if combustion equipment gets disturbed.
 
 Before you commit to either system, check our guide to [cleaning a mini-split filter and coil](/2026/03/18/how-to-clean-mini-split-filter-and-coil/) - it gives a realistic look at what owning and maintaining a mini-split involves day to day.
 
 ## Recommended Products
 
-- **[Pioneer WYS012GMFI17RL 12,000 BTU Ductless Mini-Split](https://www.amazon.com/dp/B07FQKP3Z3)** - A reliable entry-level mini-split with 17 SEER efficiency and Wi-Fi control. Good starting point for a single room or small addition.
-- **[MRCOOL DIY 12,000 BTU Ductless Mini-Split (B07B3H6YXT)](https://www.amazon.com/dp/B07B3H6YXT)** - The most homeowner-friendly DIY mini-split on the market. Pre-charged line sets mean no technician is required for the refrigerant connection.
-- **[Kidde 900-0076 Carbon Monoxide Detector (B00CYIYNQ6)](https://www.amazon.com/dp/B00CYIYNQ6)** - Plug-in CO detector. Keep one on every floor, especially when working around gas equipment.
+- **[Pioneer WYS012GMFI17RL 12,000 BTU Ductless Mini-Split](https://www.amazon.com/dp/B07FQKP3Z3?tag=hvacowners-20)** - A reliable entry-level mini-split with 17 SEER efficiency and Wi-Fi control. Good starting point for a single room or small addition.
+- **[MRCOOL DIY 12,000 BTU Ductless Mini-Split (B07B3H6YXT)](https://www.amazon.com/dp/B07B3H6YXT?tag=hvacowners-20)** - The most homeowner-friendly DIY mini-split on the market. Pre-charged line sets mean no technician is required for the refrigerant connection.
+- **[Kidde 900-0076 Carbon Monoxide Detector (B00CYIYNQ6)](https://www.amazon.com/dp/B00CYIYNQ6?tag=hvacowners-20)** - Plug-in CO detector. Keep one on every floor, especially when working around gas equipment.
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
