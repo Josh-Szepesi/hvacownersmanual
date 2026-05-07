@@ -39,7 +39,7 @@ Filters are rated on the Minimum Efficiency Reporting Value (MERV) scale, develo
 | 9-12 | 1-3 microns | Fine dust, auto emissions, Legionella bacteria | Most residential systems |
 | 13-16 | 0.3-1 micron | Tobacco smoke, most bacteria, some viruses | Allergy/asthma households |
 
-For most homes, a MERV 11 or MERV 13 filter offers the best balance between filtration performance and airflow. In our experience testing both in homes with pets and allergy sufferers, MERV 13 makes a noticeable difference in particle levels and surface dust accumulation. The [Filtrete 16x25x1 MERV 13 MPR 2200 filter](https://www.amazon.com/dp/B07FP5RWR4) is a reliable and widely available option that fits most standard system sizes.
+For most homes, a MERV 11 or MERV 13 filter offers the best balance between filtration performance and airflow. In our experience testing both in homes with pets and allergy sufferers, MERV 13 makes a noticeable difference in particle levels and surface dust accumulation. The [Filtrete 16x25x1 MERV 13 MPR 2200 filter](https://www.amazon.com/dp/B07FP5RWR4?tag=hvacowners-20) is a reliable and widely available option that fits most standard system sizes.
 
 One important caveat: higher-MERV filters restrict airflow more than basic fiberglass options. If your HVAC system is older or has a smaller blower motor, jumping straight to MERV 13 can reduce airflow enough to cause problems including frozen coils and increased motor strain. Check your owner's manual or the filter slot label for the maximum MERV rating your system supports. When in doubt, MERV 11 is a safe upgrade for almost any residential system.
 
@@ -57,7 +57,7 @@ Humidity is one of the most underrated factors in indoor air quality. The EPA re
 
 Your HVAC system's air handler dehumidifies passively when cooling, but many homeowners need supplemental control. A whole-house humidifier installed on the supply plenum maintains target moisture levels during dry winters. A ducted or standalone dehumidifier handles excess moisture in problem areas. These are investments, but they address root causes rather than symptoms.
 
-To know where you actually stand, an [indoor air quality monitor](https://www.amazon.com/dp/B0CQXFYZ54) will give you real-time readings of humidity, CO2, temperature, and VOC levels. We've found these monitors useful for identifying specific rooms where air quality consistently runs out of range, which often points to a localized ventilation or insulation issue worth investigating.
+To know where you actually stand, an [indoor air quality monitor](https://www.amazon.com/dp/B0CQXFYZ54?tag=hvacowners-20) will give you real-time readings of humidity, CO2, temperature, and VOC levels. We've found these monitors useful for identifying specific rooms where air quality consistently runs out of range, which often points to a localized ventilation or insulation issue worth investigating.
 
 Also keep your condensate drain line clear. A clogged drain causes water to back up into the system, which leads to mold growth inside the air handler itself. Flush it with diluted bleach every few months, or have your HVAC technician clear it during an annual visit.
 
@@ -67,7 +67,7 @@ UV-C germicidal lights installed inside your HVAC system can kill or inactivate 
 
 There are two main types of HVAC UV systems. Coil sterilization lights mount near the evaporator coil and run continuously, preventing mold and biofilm buildup on the coil surface. Air sterilization systems treat air as it passes through the return duct, targeting airborne pathogens in real time.
 
-The [Pure UV Whole House PCO UV-C Light System](https://www.amazon.com/dp/B07BPHD2LM) uses photocatalytic oxidation alongside UV-C to neutralize airborne pathogens and VOCs. It installs with a magnetic mount inside your HVAC duct and is a manageable DIY project for a reasonably handy homeowner.
+The [Pure UV Whole House PCO UV-C Light System](https://www.amazon.com/dp/B07BPHD2LM?tag=hvacowners-20) uses photocatalytic oxidation alongside UV-C to neutralize airborne pathogens and VOCs. It installs with a magnetic mount inside your HVAC duct and is a manageable DIY project for a reasonably handy homeowner.
 
 **What UV-C does well:** It prevents mold and biofilm on evaporator coils (which is a meaningful air quality win on its own), reduces bacteria and viral particle counts in recirculated air, and helps with odors from organic sources.
 
