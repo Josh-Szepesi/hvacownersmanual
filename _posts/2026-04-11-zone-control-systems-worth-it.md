@@ -70,7 +70,7 @@ If your duct system is undersized, leaky, or poorly designed, fix those issues f
 
 ## Is Zone Control Worth the Cost? A Real Look at the Numbers
 
-Installed cost for a professionally designed zone system typically runs $2,500 to $5,000 for a two or three zone setup in an average-sized home, with larger or more complex installations going higher. DIY-friendly zone controller kits like the [SmartZone-3X 3 Zone HVAC Controller Kit with Temp Sensor](https://www.amazon.com/dp/B00V7QXE04) can reduce labor costs if you are comfortable with low-voltage wiring, but most homeowners hire a licensed HVAC technician for the full installation.
+Installed cost for a professionally designed zone system typically runs $2,500 to $5,000 for a two or three zone setup in an average-sized home, with larger or more complex installations going higher. DIY-friendly zone controller kits like the [SmartZone-3X 3 Zone HVAC Controller Kit with Temp Sensor](https://www.amazon.com/dp/B00V7QXE04?tag=hvacowners-20) can reduce labor costs if you are comfortable with low-voltage wiring, but most homeowners hire a licensed HVAC technician for the full installation.
 
 Energy savings are real but variable. The U.S. Department of Energy estimates that zoning can reduce heating and cooling costs by 20-30% in homes where conditioning unused areas is a significant waste. Homes that routinely heat or cool the entire square footage even when occupants are concentrated in one area see the largest savings.
 
@@ -92,7 +92,7 @@ Yes, in most cases. The requirements are:
 
 **Step 1: Duct assessment.** A technician maps your duct layout and identifies where dampers should be installed. Each zone needs at least one branch or trunk section that can be isolated. If multiple rooms share a single branch, they will be in the same zone.
 
-**Step 2: Damper installation.** Motorized dampers (round or rectangular, depending on duct geometry) are cut into the duct at key branch points. A [6" round professional-grade zone damper](https://www.amazon.com/dp/B01DOB7OIC) is typical for medium branch runs. Larger trunk dampers handle higher airflow.
+**Step 2: Damper installation.** Motorized dampers (round or rectangular, depending on duct geometry) are cut into the duct at key branch points. A [6" round professional-grade zone damper](https://www.amazon.com/dp/B01DOB7OIC?tag=hvacowners-20) is typical for medium branch runs. Larger trunk dampers handle higher airflow.
 
 **Step 3: Zone board installation.** The zone control board is typically mounted near the air handler. Low-voltage wire runs from the board to each damper and each thermostat.
 
@@ -102,7 +102,7 @@ Yes, in most cases. The requirements are:
 
 **Step 6: Commissioning.** The technician sets zone priorities, bypass settings, and tests each zone through full heating and cooling cycles.
 
-For experienced DIYers comfortable with low-voltage wiring and ductwork, kits that bundle a zone controller with sensors, such as the [MOES Smart Programmable Thermostat with Zone Remote Sensor](https://www.amazon.com/dp/B09WV347GJ), can make a partial DIY approach realistic for the thermostat and board portions. Damper cutting and duct modifications are best left to a professional.
+For experienced DIYers comfortable with low-voltage wiring and ductwork, kits that bundle a zone controller with sensors, such as the [MOES Smart Programmable Thermostat with Zone Remote Sensor](https://www.amazon.com/dp/B09WV347GJ?tag=hvacowners-20), can make a partial DIY approach realistic for the thermostat and board portions. Damper cutting and duct modifications are best left to a professional.
 
 > **Safety note:** Zone control installation involves working in your electrical panel area and with low-voltage control wiring throughout your HVAC system. Always shut off power to the air handler and furnace at the breaker before any wiring work. If your system is gas-fired, do not modify any gas-side components. Working inside the air handler near electrical components without proper precautions can cause injury or equipment damage. When in doubt, hire a licensed HVAC contractor. If you have a gas furnace, ensure your home has working CO detectors before and after any HVAC modification.
 
