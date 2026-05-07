@@ -40,7 +40,7 @@ A 2,000 sq ft home in Phoenix, Arizona and a 2,000 sq ft home in Portland, Maine
 
 The industry standard for residential HVAC sizing is called Manual J - formally, the [ACCA (Air Conditioning Contractors of America) Residential Load Calculation](https://www.acca.org/standards/manualj). Every major HVAC manufacturer and every model building code requires it. A proper Manual J calculation accounts for all the factors that actually affect your home's heating and cooling loads: your climate zone (based on zip code and local design temperatures), the orientation of the house, the square footage and ceiling heights of each room, insulation R-values in walls, ceiling, and floor, window count and glazing type, construction type (wood frame, masonry, slab-on-grade vs. crawlspace), and infiltration rate.
 
-In our experience running through Manual J calculations for homes in different climate zones, the recommended tonnage frequently differs from the rule-of-thumb estimate by a full ton in either direction - enough to matter significantly over the life of the system. The definitive reference is the [Manual J 8th Edition](https://www.amazon.com/dp/1892765357) from ACCA. If you want to understand the methodology or verify what your contractor is doing, that's the authoritative source. When getting quotes, ask directly: "Can you show me the Manual J calculation for this recommendation?" A contractor who can't or won't provide one is a red flag.
+In our experience running through Manual J calculations for homes in different climate zones, the recommended tonnage frequently differs from the rule-of-thumb estimate by a full ton in either direction - enough to matter significantly over the life of the system. The definitive reference is the [Manual J 8th Edition](https://www.amazon.com/dp/1892765357?tag=hvacowners-20) from ACCA. If you want to understand the methodology or verify what your contractor is doing, that's the authoritative source. When getting quotes, ask directly: "Can you show me the Manual J calculation for this recommendation?" A contractor who can't or won't provide one is a red flag.
 
 ## What Actually Affects Your Load Beyond Square Footage
 
@@ -58,7 +58,7 @@ Once you understand that square footage is just one input, it helps to know whic
 
 **Duct condition** is separate from sizing but affects real-world performance. A correctly sized system won't perform correctly if the ducts are leaking 20-30% of conditioned air into an unconditioned attic. Before sizing new equipment, evaluating duct condition is worth doing - we cover that in detail in our guide on [sealing duct leaks yourself](/how-to-seal-duct-leaks-yourself/).
 
-For measuring your own square footage accurately before talking to contractors: measure the interior dimensions of each conditioned room (length x width), add them up, and exclude unconditioned spaces like unheated garages and unfinished basements. A laser distance measurer is considerably faster and more accurate than a tape measure for this. The [DEWALT 100ft Laser Distance Measurer](https://www.amazon.com/dp/B00GKGMN76) is what we use for this kind of work - you can take accurate readings solo in larger rooms where a tape measure requires two people.
+For measuring your own square footage accurately before talking to contractors: measure the interior dimensions of each conditioned room (length x width), add them up, and exclude unconditioned spaces like unheated garages and unfinished basements. A laser distance measurer is considerably faster and more accurate than a tape measure for this. The [DEWALT 100ft Laser Distance Measurer](https://www.amazon.com/dp/B00GKGMN76?tag=hvacowners-20) is what we use for this kind of work - you can take accurate readings solo in larger rooms where a tape measure requires two people.
 
 ## Is Your Current System the Right Size?
 
@@ -66,7 +66,7 @@ If you already have an HVAC system and you're questioning whether it's sized cor
 
 The most telling check is watching how the system runs during the most extreme days of the year. On a day when outdoor temperatures hit your local design temperature, a correctly sized system should run in long, fairly continuous cycles. If it short-cycles every 5-7 minutes, it's likely oversized. If it runs continuously and can't maintain the set temperature on a moderate day, it's undersized.
 
-You can also check the supply/return temperature split. The difference between the temperature of air entering the return and the conditioned air at the supply registers should be around 14-22°F on a properly functioning cooling system. An infrared thermometer pointed at supply and return vents lets you take this reading in seconds. The [Fluke 62 MAX Infrared Thermometer](https://www.amazon.com/dp/B00BSUNR34) is accurate to within 1.5°C and handles the range you'll encounter in HVAC work well - we've found it reliable for both HVAC diagnostics and general home energy work. A split under 14°F often points to an oversized system short-cycling; a split above 22°F can indicate an airflow restriction or refrigerant issue.
+You can also check the supply/return temperature split. The difference between the temperature of air entering the return and the conditioned air at the supply registers should be around 14-22°F on a properly functioning cooling system. An infrared thermometer pointed at supply and return vents lets you take this reading in seconds. The [Fluke 62 MAX Infrared Thermometer](https://www.amazon.com/dp/B00BSUNR34?tag=hvacowners-20) is accurate to within 1.5°C and handles the range you'll encounter in HVAC work well - we've found it reliable for both HVAC diagnostics and general home energy work. A split under 14°F often points to an oversized system short-cycling; a split above 22°F can indicate an airflow restriction or refrigerant issue.
 
 High indoor humidity in summer when the thermostat reads correctly is another classic sign of oversizing. The system is reaching temperature too fast and shutting off before completing a dehumidification cycle. Understanding [SEER ratings and equipment efficiency](/understanding-seer-ratings/) is also useful here - a correctly sized system with a good SEER rating will outperform a larger, less efficient unit every time.
 
@@ -101,9 +101,9 @@ Air is less dense at higher altitudes, which reduces the heat-carrying capacity 
 
 ## Recommended Products
 
-- [Manual J 8th Edition - Residential Load Calculation (ACCA)](https://www.amazon.com/dp/1892765357) - The official ACCA sizing standard; useful for understanding exactly what your contractor should be doing
-- [Fluke 62 MAX Infrared Thermometer](https://www.amazon.com/dp/B00BSUNR34) - Check supply/return temperature splits to evaluate whether your current system is performing correctly
-- [DEWALT 100ft Laser Distance Measurer](https://www.amazon.com/dp/B00GKGMN76) - Measure room dimensions accurately for your own square footage verification before meeting with contractors
+- [Manual J 8th Edition - Residential Load Calculation (ACCA)](https://www.amazon.com/dp/1892765357?tag=hvacowners-20) - The official ACCA sizing standard; useful for understanding exactly what your contractor should be doing
+- [Fluke 62 MAX Infrared Thermometer](https://www.amazon.com/dp/B00BSUNR34?tag=hvacowners-20) - Check supply/return temperature splits to evaluate whether your current system is performing correctly
+- [DEWALT 100ft Laser Distance Measurer](https://www.amazon.com/dp/B00GKGMN76?tag=hvacowners-20) - Measure room dimensions accurately for your own square footage verification before meeting with contractors
 
 ---
 
