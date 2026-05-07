@@ -63,9 +63,9 @@ Understanding SEER helps when comparing systems. See our [Heat Pump vs Furnace g
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Smart Thermostat Energy Saving](https://www.amazon.com/s?k=smart+thermostat+energy+saving)**
-- **[Door Weatherstrip Seal](https://www.amazon.com/s?k=door+weatherstrip+seal+draft)**
-- **[Foam Tape Insulation](https://www.amazon.com/s?k=foam+tape+insulation+hvac)**
+- **[Smart Thermostat Energy Saving](https://www.amazon.com/s?k=smart+thermostat+energy+saving&tag=hvacowners-20)**
+- **[Door Weatherstrip Seal](https://www.amazon.com/s?k=door+weatherstrip+seal+draft&tag=hvacowners-20)**
+- **[Foam Tape Insulation](https://www.amazon.com/s?k=foam+tape+insulation+hvac&tag=hvacowners-20)**
 
 
 <div class="author-bio">
