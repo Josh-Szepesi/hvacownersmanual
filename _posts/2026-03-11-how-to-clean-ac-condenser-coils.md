@@ -70,9 +70,9 @@ If your AC still isn't cooling after coil cleaning, our [AC Won't Turn On guide]
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Window Air Conditioner](https://www.amazon.com/s?k=window+air+conditioner+5000+btu)**
-- **[AC Coil Cleaner Spray](https://www.amazon.com/s?k=ac+coil+cleaner+spray+foam)**
-- **[AC Capacitor Replacement](https://www.amazon.com/s?k=ac+capacitor+replacement+hvac)**
+- **[Window Air Conditioner](https://www.amazon.com/s?k=window+air+conditioner+5000+btu&tag=hvacowners-20)**
+- **[AC Coil Cleaner Spray](https://www.amazon.com/s?k=ac+coil+cleaner+spray+foam&tag=hvacowners-20)**
+- **[AC Capacitor Replacement](https://www.amazon.com/s?k=ac+capacitor+replacement+hvac&tag=hvacowners-20)**
 
 
 <div class="author-bio">
