@@ -66,7 +66,7 @@ A regularly changed filter is the best short-cycling prevention. See our [How to
 
 Here are a few products that can help with what we covered in this guide:
 
-- **[AC Capacitor Replacement Kit](https://www.amazon.com/s?k=ac)**
+- **[AC Capacitor Replacement Kit](https://www.amazon.com/s?k=ac&tag=hvacowners-20)**
 
 
 <div class="author-bio">
