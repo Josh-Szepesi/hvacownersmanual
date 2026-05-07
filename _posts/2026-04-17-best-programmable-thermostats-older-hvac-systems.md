@@ -58,7 +58,7 @@ We tested and reviewed these based on compatibility with older two-wire and no-C
 
 ### Honeywell Home RTH2300B 5-2 Day Programmable Thermostat
 
-The [RTH2300B](https://www.amazon.com/dp/B00CTSY6G0) is one of the most widely compatible basic programmable thermostats available. It runs entirely on batteries, which means it does not need a C-wire at all. This makes it a reliable choice for older heating-only systems with two-wire setups.
+The [RTH2300B](https://www.amazon.com/dp/B00CTSY6G0?tag=hvacowners-20) is one of the most widely compatible basic programmable thermostats available. It runs entirely on batteries, which means it does not need a C-wire at all. This makes it a reliable choice for older heating-only systems with two-wire setups.
 
 Programming is genuinely simple: two schedules (weekday and weekend), four time periods per day. The display is large and clear. In our experience with older homes, this thermostat installs cleanly on two-wire systems without the system short-cycling or behaving oddly, which can be a real problem with power-stealing designs.
 
@@ -66,7 +66,7 @@ It does not support cooling, so if you have a two-wire heating-only setup, that 
 
 ### Honeywell Home RTH6360D 5-2 Day Programmable Thermostat
 
-The [RTH6360D](https://www.amazon.com/dp/B07589KPQ3) handles both heating and cooling on systems without a C-wire, using batteries for power. This is the sweet spot for older homes that have a central furnace and window or central AC but wiring from the 1980s or earlier.
+The [RTH6360D](https://www.amazon.com/dp/B07589KPQ3?tag=hvacowners-20) handles both heating and cooling on systems without a C-wire, using batteries for power. This is the sweet spot for older homes that have a central furnace and window or central AC but wiring from the 1980s or earlier.
 
 It supports heat, cool, auto, and fan modes. Smart Response Technology learns how long your system takes to reach the set temperature and starts the cycle early so you hit your target on schedule rather than ten minutes after. The backlit display is easy to read across the room.
 
@@ -74,7 +74,7 @@ We have found this model particularly useful when the alternative is running a n
 
 ### Emerson 1F78-151 Single-Stage 5-2 Day Programmable Thermostat
 
-The [Emerson 1F78-151](https://www.amazon.com/dp/B000PY0LVO) is a no-frills, battery-powered programmable thermostat that works with most single-stage 24V systems. It is a good choice when you want the simplest possible upgrade from a manual thermostat on an older forced-air system.
+The [Emerson 1F78-151](https://www.amazon.com/dp/B000PY0LVO?tag=hvacowners-20) is a no-frills, battery-powered programmable thermostat that works with most single-stage 24V systems. It is a good choice when you want the simplest possible upgrade from a manual thermostat on an older forced-air system.
 
 Programming follows a 5+2 schedule with four periods per day. Installation is straightforward, and the thermostat works with gas, oil, or electric single-stage systems. It is not millivolt compatible, so do not use it on a floor furnace or standing-pilot wall heater.
 
