@@ -124,13 +124,13 @@ If you've already sealed your ducts and still have uneven temperatures, the issu
 All three of the following are generic commodity products where brand matters less than the product type. Any reputable HVAC-grade version will work.
 
 **HVAC foil tape (metal tape):** This is the right tape for duct work - not the gray fabric kind labeled "duct tape." Look specifically for foil or aluminum HVAC tape rated for high temperatures.
-[Browse HVAC foil tape on Amazon](https://www.amazon.com/s?k=hvac+foil+tape+aluminum)
+[Browse HVAC foil tape on Amazon](https://www.amazon.com/s?k=hvac+foil+tape+aluminum&tag=hvacowners-20)
 
 **Duct mastic sealant:** Water-based, brush-on compound. Look for products labeled for HVAC duct sealing specifically - general caulks and sealants are not designed for this application.
-[Browse duct mastic sealant on Amazon](https://www.amazon.com/s?k=duct+mastic+sealant+hvac)
+[Browse duct mastic sealant on Amazon](https://www.amazon.com/s?k=duct+mastic+sealant+hvac&tag=hvacowners-20)
 
 **Fiberglass mesh tape:** Used to bridge gaps before applying mastic. Standard drywall mesh tape works for this - no need to buy a specialty version.
-[Browse fiberglass mesh tape on Amazon](https://www.amazon.com/s?k=fiberglass+mesh+tape+drywall)
+[Browse fiberglass mesh tape on Amazon](https://www.amazon.com/s?k=fiberglass+mesh+tape+drywall&tag=hvacowners-20)
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
