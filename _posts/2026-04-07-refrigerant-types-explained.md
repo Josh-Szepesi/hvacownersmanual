@@ -117,7 +117,7 @@ When we read system nameplates on older homes, the most common source of confusi
 
 **Cross-charging.** Adding the wrong refrigerant to a system (for example, R-410A into an R-22 system) will not work and can cause serious equipment damage. This is why fittings are sized differently and why certification is required.
 
-**Not knowing what tools were used during service.** A legitimate refrigerant service call involves a manifold gauge set (such as the [BACOENG 4 CFM AC Vacuum Pump and Gauge Set](https://www.amazon.com/dp/B0D5D5CVX2)) to measure system pressures, plus a refrigerant scale for weight-based charging. If a technician can't explain what readings they took or what the charge weight should be, that's a red flag. Knowing that these tools exist and what they're for helps you ask the right questions. For reference, a [recharge hose kit with gauge](https://www.amazon.com/dp/B085VR9QL5) is what connects a gauge manifold to the system's service ports -- a basic piece of equipment any technician servicing your unit should have on hand.
+**Not knowing what tools were used during service.** A legitimate refrigerant service call involves a manifold gauge set (such as the [BACOENG 4 CFM AC Vacuum Pump and Gauge Set](https://www.amazon.com/dp/B0D5D5CVX2?tag=hvacowners-20)) to measure system pressures, plus a refrigerant scale for weight-based charging. If a technician can't explain what readings they took or what the charge weight should be, that's a red flag. Knowing that these tools exist and what they're for helps you ask the right questions. For reference, a [recharge hose kit with gauge](https://www.amazon.com/dp/B085VR9QL5?tag=hvacowners-20) is what connects a gauge manifold to the system's service ports -- a basic piece of equipment any technician servicing your unit should have on hand.
 
 ## Frequently Asked Questions
 
@@ -143,7 +143,7 @@ Ask the contractor and check the system nameplate after installation. Any new re
 
 **What does a refrigerant leak smell like?**
 
-R-22 has a faint, slightly sweet smell at high concentrations. R-410A and R-32 are largely odorless. In practice, most refrigerant leaks are not detected by smell -- they show up as reduced cooling, ice on the evaporator coil, or higher energy bills. If you suspect a leak, have a technician check with a [refrigerant leak detector](https://www.amazon.com/dp/B0CQV139TF).
+R-22 has a faint, slightly sweet smell at high concentrations. R-410A and R-32 are largely odorless. In practice, most refrigerant leaks are not detected by smell -- they show up as reduced cooling, ice on the evaporator coil, or higher energy bills. If you suspect a leak, have a technician check with a [refrigerant leak detector](https://www.amazon.com/dp/B0CQV139TF?tag=hvacowners-20).
 
 
 Understanding your system's refrigerant type helps you make better decisions when something goes wrong. If you have an R-22 system, the clock is ticking on cost-effective repairs -- plan for replacement in the next few years. If you have an R-410A system installed in the last 15 years, you're fine for now but should know that future replacements will use newer refrigerants. If you're buying new equipment today, make sure it uses a next-generation low-GWP refrigerant.
