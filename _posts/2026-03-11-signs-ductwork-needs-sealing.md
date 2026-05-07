@@ -66,9 +66,9 @@ Sealed ducts improve airflow throughout the house. Our [Improve Airflow in a Two
 
 Here are a few products to help with what we covered in this guide:
 
-- **[HVAC Foil Duct Tape](https://www.amazon.com/s?k=hvac+foil+duct+tape+professional)**
-- **[Duct Sealant Mastic](https://www.amazon.com/s?k=duct+sealant+mastic+hvac)**
-- **[Register Vent Covers](https://www.amazon.com/s?k=floor+register+vent+covers)**
+- **[HVAC Foil Duct Tape](https://www.amazon.com/s?k=hvac+foil+duct+tape+professional&tag=hvacowners-20)**
+- **[Duct Sealant Mastic](https://www.amazon.com/s?k=duct+sealant+mastic+hvac&tag=hvacowners-20)**
+- **[Register Vent Covers](https://www.amazon.com/s?k=floor+register+vent+covers&tag=hvacowners-20)**
 
 
 <div class="author-bio">
