@@ -42,7 +42,7 @@ A metallic clanking sound during operation usually means a fan blade has come lo
 
 ### Rattling from Panels and Access Covers
 
-A lower-pitched rattling is often a loose sheet metal panel or access door. Check that all screws are tight on the furnace cabinet, air handler housing, and ductwork connections near the unit. This is a DIY fix in most cases. For units that rattle due to vibration against the pad or surface they sit on, rubber anti-vibration pads placed under the unit can solve the problem without any tools. The [Air Jade 4 Pack Rubber Anti-Vibration Pads](https://www.amazon.com/dp/B07PZT8MCP) are a popular option for both indoor air handlers and outdoor compressor pads and take only minutes to install.
+A lower-pitched rattling is often a loose sheet metal panel or access door. Check that all screws are tight on the furnace cabinet, air handler housing, and ductwork connections near the unit. This is a DIY fix in most cases. For units that rattle due to vibration against the pad or surface they sit on, rubber anti-vibration pads placed under the unit can solve the problem without any tools. The [Air Jade 4 Pack Rubber Anti-Vibration Pads](https://www.amazon.com/dp/B07PZT8MCP?tag=hvacowners-20) are a popular option for both indoor air handlers and outdoor compressor pads and take only minutes to install.
 
 ### Banging or Thumping from Inside the Ducts
 
@@ -76,7 +76,7 @@ A methodical approach saves time and prevents misdiagnosis. Here is the process 
 
 **Step 4: Inspect visible and accessible components.** With the system off and power off at the breaker, check all panel screws, look at the blower wheel for debris or wobble, inspect the outdoor fan blades for damage or looseness, and look at accessible ductwork for disconnected sections.
 
-**Step 5: Use a diagnostic tool to isolate sounds.** With the system running, an [allsun Ultrasonic Leaking Detector Electronic Stethoscope](https://www.amazon.com/dp/B07B8GFCDL) lets you press the probe against different components and listen for the specific source without guessing. This is especially useful for identifying whether a hum is coming from the compressor, the capacitor, or a vibrating panel.
+**Step 5: Use a diagnostic tool to isolate sounds.** With the system running, an [allsun Ultrasonic Leaking Detector Electronic Stethoscope](https://www.amazon.com/dp/B07B8GFCDL?tag=hvacowners-20) lets you press the probe against different components and listen for the specific source without guessing. This is especially useful for identifying whether a hum is coming from the compressor, the capacitor, or a vibrating panel.
 
 **Step 6: Cross-reference the table below** to match what you are hearing with the most likely cause and decide whether to proceed yourself or call a technician.
 
@@ -104,7 +104,7 @@ A single click when the system starts and stops is normal. Rapid, repetitive cli
 
 ### Capacitor Failure
 
-The start and run capacitors give the compressor and fan motors the electrical boost they need to start and maintain operation. A failing capacitor causes the motor to hum loudly without starting, or to start slowly and struggle. Capacitors are available as replacement parts, and with the power off and the capacitor properly discharged, replacing one is within reach for many homeowners. The [BOJACK 5 uF CBB65 Oval Run Start Capacitor](https://www.amazon.com/dp/B07VMGXGPS) is a commonly stocked replacement for residential AC units, though you must always match the microfarad rating and voltage rating to your specific capacitor. The specifications are printed on the capacitor label.
+The start and run capacitors give the compressor and fan motors the electrical boost they need to start and maintain operation. A failing capacitor causes the motor to hum loudly without starting, or to start slowly and struggle. Capacitors are available as replacement parts, and with the power off and the capacitor properly discharged, replacing one is within reach for many homeowners. The [BOJACK 5 uF CBB65 Oval Run Start Capacitor](https://www.amazon.com/dp/B07VMGXGPS?tag=hvacowners-20) is a commonly stocked replacement for residential AC units, though you must always match the microfarad rating and voltage rating to your specific capacitor. The specifications are printed on the capacitor label.
 
 ### Contactor and Transformer Buzzing
 
