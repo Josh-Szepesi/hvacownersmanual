@@ -77,7 +77,4 @@ If you leave the power on, there is a small risk that the unit could attempt to 
 **Enjoyed this guide?** Bookmark it for later or share it with a friend who might find it useful.
 
 
-<div class="author-bio">
-  <p><strong>About the Author</strong></p>
-  <p>The HVAC Owners Manual team helps homeowners understand their heating and cooling systems - what's normal, what's not, and when it's time to call in a pro. Our guides are written to save you money and keep your system running right.</p>
-</div>
+<div class="author-bio"><p><strong>About the Author</strong></p><p>The HVAC Owners Manual team researches heating and cooling systems to help homeowners understand what's normal, what's not, and when to call a pro. Our guides are built from manufacturer documentation, industry standards, and contractor-community knowledge.</p></div>
