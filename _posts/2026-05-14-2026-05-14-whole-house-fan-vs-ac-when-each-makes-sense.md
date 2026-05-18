@@ -75,7 +75,4 @@ If you found this guide helpful, bookmark this page for your next home improveme
 - [How To Read And Understand Your Hvac Nameplate](/2026-05-02-2026-05-02-how-to-read-and-understand-your-hvac-nameplate)
 - [Hvac And Home Insulation How They Work Together](/2026-05-09-2026-05-09-hvac-and-home-insulation-how-they-work-together)
 
-<div class="author-bio">
-  <p><strong>About the Author</strong></p>
-  <p>The HVAC Owners Manual team helps homeowners understand their heating and cooling systems - what's normal, what's not, and when it's time to call in a pro. Our guides are written to save you money and keep your system running right.</p>
-</div>
+<div class="author-bio"><p><strong>About the Author</strong></p><p>The HVAC Owners Manual team researches heating and cooling systems to help homeowners understand what's normal, what's not, and when to call a pro. Our guides are built from manufacturer documentation, industry standards, and contractor-community knowledge.</p></div>
