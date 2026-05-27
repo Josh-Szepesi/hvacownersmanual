@@ -37,7 +37,7 @@ Once the system is thawed, the first place you look is the air filter. This soun
 
 However, it is not just about cleanliness; it is about the "MERV" rating. Many homeowners buy the most expensive, high-efficiency filters they can find, thinking they are helping their family's health. In reality, these thick filters are often too restrictive for older blower motors. They act like a wall, slowing the air down so much that the coil freezes even when the filter is brand new. If you have been having freezing issues, try switching to a basic pleated filter with a lower MERV rating to see if airflow improves.
 
-Beyond the filter, you must inspect your registers and vents. You should never close off more than 10 percent of the vents in your house. People often close vents in "unused" guest rooms to save money, but this actually increases the static pressure in the ductwork and reduces the volume of air moving over the evaporator coil. Make sure all supply vents are open and that no return air grilles are blocked by furniture or curtains. For a deeper look at how air moves through your home, check out our guide on [how to improve home air quality HVAC](/2026-04-05-how-to-improve-home-air-quality-hvac/). If you have restricted air at the source, no amount of mechanical repair will keep that coil from freezing.
+Beyond the filter, you must inspect your registers and vents. You should never close off more than 10 percent of the vents in your house. People often close vents in "unused" guest rooms to save money, but this actually increases the static pressure in the ductwork and reduces the volume of air moving over the evaporator coil. Make sure all supply vents are open and that no return air grilles are blocked by furniture or curtains. For a deeper look at how air moves through your home, check out our guide on [how to improve home air quality HVAC](/2026/04/05/how-to-improve-home-air-quality-hvac//). If you have restricted air at the source, no amount of mechanical repair will keep that coil from freezing.
 
 ### Mechanical Failures of the Blower System
 
@@ -53,7 +53,7 @@ This is the point where the DIY homeowner needs to be very careful. A common mis
 
 If you have ruled out airflow and mechanical blower issues, you likely have a leak. You can sometimes spot these leaks by looking for oily residue on the copper lines or the coil itself, as the refrigerant carries a small amount of oil with it. For a more precise check, a tool like the [Elitech HVAC Refrigerant Leak Detector](https://www.amazon.com/dp/B07586MWM9?tag=hvacowners-20) can help you pinpoint the source. However, even if you find the leak, you cannot simply "top it off." Federal law requires a [608-certified technician](https://www.epa.gov/section608) to handle and charge refrigerant.
 
-If your system is older, it might still use R-22 refrigerant, which is incredibly expensive and being phased out. In these cases, a frozen coil caused by a leak often signifies that it is time for a new system. For more on this, read our article on [how to tell if HVAC needs refrigerant](/2026-04-09-how-to-tell-if-hvac-needs-refrigerant/). Do not let a "handyman" just add gas to the system without fixing the leak; you are literally throwing money into the atmosphere, and the coil will just freeze again in a week.
+If your system is older, it might still use R-22 refrigerant, which is incredibly expensive and being phased out. In these cases, a frozen coil caused by a leak often signifies that it is time for a new system. For more on this, read our article on [how to tell if HVAC needs refrigerant](/2026/04/09/how-to-tell-if-hvac-needs-refrigerant//). Do not let a "handyman" just add gas to the system without fixing the leak; you are literally throwing money into the atmosphere, and the coil will just freeze again in a week.
 
 ## Step-by-Step Troubleshooting Framework
 
@@ -94,8 +94,8 @@ A frozen evaporator coil is a "stop work" order for your HVAC system. While it i
 Check your air filter monthly to prevent these issues from returning during the peak of summer.
 
 ### Related Reading
-- [How To Tell If Hvac Needs Refrigerant](/2026-04-09-how-to-tell-if-hvac-needs-refrigerant/)
-- [Indoor Humidity Control Hvac](/2026-04-19-indoor-humidity-control-hvac/)
+- [How To Tell If Hvac Needs Refrigerant](/2026/04/09/how-to-tell-if-hvac-needs-refrigerant//)
+- [Indoor Humidity Control Hvac](/2026/04/19/indoor-humidity-control-hvac//)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
