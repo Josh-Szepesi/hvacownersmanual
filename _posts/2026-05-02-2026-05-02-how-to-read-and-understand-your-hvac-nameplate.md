@@ -17,7 +17,7 @@ Most homeowners walk past the silver or white sticker on the side of their outdo
 
 The model number is the most vital string of characters on your HVAC nameplate. It is not just a random sequence of numbers; it is a coded language that tells you the unit's capacity, its efficiency series, and its configuration. Most manufacturers embed the "tonnage" of the unit directly into this number. In the HVAC world, cooling capacity is measured in BTUs (British Thermal Units), and 12,000 BTUs equals one ton of cooling. When you look at your model number, look for a two-digit number that is a multiple of six or twelve. For example, if you see "36" in the middle of a long string, your unit is likely a 3-ton system (36,000 divided by 12,000).
 
-Understanding this helps you verify if your system was sized correctly for your home in the first place. You can cross-reference this data with our guide on [what size HVAC system does my house need](/2026-04-03-what-size-hvac-system-does-my-house-need/) to see if your current equipment is actually up to the task. Beyond tonnage, the model number often indicates the SEER (Seasonal Energy Efficiency Ratio) rating. A model number starting with "14AC" might indicate a 14-SEER air conditioner. This is critical information when you are trying to calculate potential energy savings or when you are searching for compatible replacement parts like fan motors or capacitors.
+Understanding this helps you verify if your system was sized correctly for your home in the first place. You can cross-reference this data with our guide on [what size HVAC system does my house need](/2026/04/03/what-size-hvac-system-does-my-house-need//) to see if your current equipment is actually up to the task. Beyond tonnage, the model number often indicates the SEER (Seasonal Energy Efficiency Ratio) rating. A model number starting with "14AC" might indicate a 14-SEER air conditioner. This is critical information when you are trying to calculate potential energy savings or when you are searching for compatible replacement parts like fan motors or capacitors.
 
 Never rely on a technician's verbal word for what model you have. Technicians make mistakes, and sometimes they misidentify units that have been rebranded by parent companies. Carrier, Bryant, and Payne often share internal parts, but their model number structures differ slightly. Always take a clear photo of the model number and save it to a cloud folder. If the nameplate is starting to fade, use a permanent marker to write the model and serial numbers on the inside of the electrical disconnect box. This ensures that even if the outdoor sticker peels off from UV exposure, you still have the "DNA" of your system recorded. For those who want to go deeper into the technical specifications of their hardware, I highly recommend keeping a copy of [Modern Refrigeration and Air Conditioning](https://www.amazon.com/dp/B0CLG5YJ9G?tag=hvacowners-20) on your shelf. It is the gold standard for understanding how these components interact.
 
@@ -31,7 +31,7 @@ To verify these values in real-time, you should own a reliable tool like the [Fl
 
 ## Refrigerant Data and Factory Charge
 
-The refrigerant section of the nameplate tells you exactly what "juice" your system runs on and how much was put in at the factory. This is not a suggestion. If your system is designed for R-410A, you can never, under any circumstances, add R-22 or any of the newer R-454B replacements without a full system conversion. Mixing refrigerants will chemically react with the oil in the compressor, creating an acid that will eat the motor windings from the inside out. For a deeper dive into why this matters, read our post on [refrigerant types explained](/2026-04-07-refrigerant-types-explained/).
+The refrigerant section of the nameplate tells you exactly what "juice" your system runs on and how much was put in at the factory. This is not a suggestion. If your system is designed for R-410A, you can never, under any circumstances, add R-22 or any of the newer R-454B replacements without a full system conversion. Mixing refrigerants will chemically react with the oil in the compressor, creating an acid that will eat the motor windings from the inside out. For a deeper dive into why this matters, read our post on [refrigerant types explained](/2026/04/07/refrigerant-types-explained//).
 
 The nameplate will also list the "Factory Charge." This is the amount of refrigerant, usually in pounds and ounces, that the manufacturer put into the outdoor unit at the factory. This charge is typically calculated for a standard 15-foot line set (the copper pipes connecting the indoor and outdoor units). If your indoor unit is 50 feet away, a technician must add more refrigerant based on that extra distance. Knowing the factory charge allows you to keep the technician honest. If the nameplate says the factory charge is 5 lbs 8 oz, and the tech claims they added 10 lbs of "extra" refrigerant for a standard installation, you are likely being overcharged or they are masking a massive leak.
 
@@ -87,8 +87,8 @@ Understanding your HVAC nameplate is the difference between being an informed ho
 If you found this guide helpful, bookmark this page for the next time you need to troubleshoot your system or talk to a contractor.
 
 ### Related Reading
-- [What Size HVAC System Does My House Need](/2026-04-03-what-size-hvac-system-does-my-house-need/)
-- [Refrigerant Types Explained](/2026-04-07-refrigerant-types-explained/)
+- [What Size HVAC System Does My House Need](/2026/04/03/what-size-hvac-system-does-my-house-need//)
+- [Refrigerant Types Explained](/2026/04/07/refrigerant-types-explained//)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
