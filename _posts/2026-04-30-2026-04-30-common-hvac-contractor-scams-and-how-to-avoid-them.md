@@ -29,7 +29,7 @@ Air conditioning systems are closed loops. The refrigerant inside does not get "
 
 When a technician tells you that you need refrigerant, ask them to show you the pressure readings on their gauges. If you want to be truly proactive, you can use a [Klein Tools Digital Multimeter](https://www.amazon.com/dp/B000EJ332O?tag=hvacowners-20) with a temperature probe to check the "superheat" and "subcooling" values yourself, though this requires some technical study. A dishonest tech relies on your ignorance of these numbers. If they cannot tell you exactly where the leak is located, they are either lazy or lying. They should be using an electronic leak detector or a soap bubble solution to find the physical hole in the copper lines or the evaporator coil.
 
-You should also be aware of the type of refrigerant your system uses. Older systems use R-22, which is incredibly expensive due to being phased out. Scammers love to tell homeowners with R-22 systems that they cannot get the gas anymore and must replace the whole unit. While R-22 is expensive, it is still available. You can learn more about this in our guide on [refrigerant types](/2026-04-07-refrigerant-types-explained/) or review the [EPA's phase-out regulations](https://www.epa.gov/ods-phaseout) for older coolants. Do not let a high price quote for a recharge bully you into a $12,000 system replacement without exploring repair options first.
+You should also be aware of the type of refrigerant your system uses. Older systems use R-22, which is incredibly expensive due to being phased out. Scammers love to tell homeowners with R-22 systems that they cannot get the gas anymore and must replace the whole unit. While R-22 is expensive, it is still available. You can learn more about this in our guide on [refrigerant types](/2026/04/07/refrigerant-types-explained//) or review the [EPA's phase-out regulations](https://www.epa.gov/ods-phaseout) for older coolants. Do not let a high price quote for a recharge bully you into a $12,000 system replacement without exploring repair options first.
 
 ## The "Part is Obsolete" Lie
 
@@ -100,8 +100,8 @@ The HVAC industry is essential for modern comfort, but the prevalence of commiss
 Bookmark this guide for the next time your AC stops blowing cold or your furnace starts making a strange noise.
 
 **Related reading:**
-- [2026 04 03 What Size Hvac System Does My House Need](/2026-04-03-what-size-hvac-system-does-my-house-need/)
-- [2026 04 07 Refrigerant Types Explained](/2026-04-07-refrigerant-types-explained/)
+- [2026 04 03 What Size Hvac System Does My House Need](/2026/04/03/what-size-hvac-system-does-my-house-need//)
+- [2026 04 07 Refrigerant Types Explained](/2026/04/07/refrigerant-types-explained//)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
