@@ -42,7 +42,7 @@ You have three realistic options:
 2. **Retrofit with a compatible refrigerant** like R-422D or R-407C. Some older systems can run on a "drop-in" replacement, though performance may not match the original spec and you need a technician to verify compatibility.
 3. **Replace the system** with a new unit that uses R-410A or R-32. If your R-22 system is more than 15 years old and developing leaks, replacement usually makes more financial sense than continued refrigerant purchases at current prices.
 
-For more on evaluating whether to repair or replace your HVAC system, see our guide on [central AC vs. mini-split systems](/2026-03-28-central-ac-vs-mini-split/) to understand which type of replacement might make sense for your home.
+For more on evaluating whether to repair or replace your HVAC system, see our guide on [central AC vs. mini-split systems](/2026/03/28/central-ac-vs-mini-split//) to understand which type of replacement might make sense for your home.
 
 ## R-410A (Puron): The Current Standard
 
@@ -50,7 +50,7 @@ R-410A replaced R-22 as the standard residential refrigerant in the United State
 
 ### Why R-410A Replaced R-22
 
-R-410A operates at significantly higher pressures than R-22 (roughly 1.6 times higher at equivalent temperatures), which allows for more efficient heat transfer. Systems designed for R-410A tend to be more energy-efficient than their R-22 counterparts, which is part of why SEER ratings improved substantially in the 2010s. You can read more about how those efficiency ratings translate to real energy savings in our [understanding SEER ratings guide](/2026-03-11-understanding-seer-ratings/).
+R-410A operates at significantly higher pressures than R-22 (roughly 1.6 times higher at equivalent temperatures), which allows for more efficient heat transfer. Systems designed for R-410A tend to be more energy-efficient than their R-22 counterparts, which is part of why SEER ratings improved substantially in the 2010s. You can read more about how those efficiency ratings translate to real energy savings in our [understanding SEER ratings guide](/2026/03/11/understanding-seer-ratings//).
 
 R-410A systems are also easier and cheaper to service right now because the refrigerant is still widely available and prices are stable.
 
@@ -150,7 +150,7 @@ Understanding your system's refrigerant type helps you make better decisions whe
 
 The most important rule: refrigerant is not a DIY material. It is regulated, pressurized, and potentially hazardous. For any diagnosis or service involving refrigerant, the right move is always to hire a licensed HVAC technician. The EPA's [Section 608 refrigerant management regulations](https://www.epa.gov/section608) are a good resource if you want to understand what your technician is legally required to do.
 
-**Related reading:** [How to Improve Home Air Quality With Your HVAC System](/2026-04-05-how-to-improve-home-air-quality-hvac/)
+**Related reading:** [How to Improve Home Air Quality With Your HVAC System](/2026/04/05/how-to-improve-home-air-quality-hvac//)
 
 ---
 
