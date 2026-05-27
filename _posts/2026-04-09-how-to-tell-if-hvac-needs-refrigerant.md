@@ -24,7 +24,7 @@ Unlike motor oil or a car's coolant, refrigerant in a properly sealed system sho
 
 Understanding this point is important before you call a technician. If someone tells you your system just "needs a recharge" without mentioning a leak inspection, that's a red flag. A recharge alone will not fix the underlying problem. The refrigerant will escape again, often within weeks or months, and you'll be paying for another service call while the real damage continues to your compressor and evaporator coil.
 
-If you want background on the different refrigerant types used in residential systems, including R-22, R-410A, and the newer R-32, see our guide to [refrigerant types explained](/2026-04-07-refrigerant-types-explained) for a full breakdown of what each one means for repair costs and system longevity.
+If you want background on the different refrigerant types used in residential systems, including R-22, R-410A, and the newer R-32, see our guide to [refrigerant types explained](/2026/04/07/refrigerant-types-explained/) for a full breakdown of what each one means for repair costs and system longevity.
 
 ## Signs Your HVAC System Needs Refrigerant
 
@@ -150,7 +150,7 @@ The cost varies by type. R-22 has become expensive due to scarcity following its
 
 ## Related Reading
 
-If your system passed the refrigerant check but is still underperforming, the issue may lie elsewhere. Dirty condenser coils are another common cause of reduced cooling efficiency that homeowners can address without a service call. See our guide on [how to clean AC condenser coils](/2026-03-11-how-to-clean-ac-condenser-coils) for a step-by-step walkthrough.
+If your system passed the refrigerant check but is still underperforming, the issue may lie elsewhere. Dirty condenser coils are another common cause of reduced cooling efficiency that homeowners can address without a service call. See our guide on [how to clean AC condenser coils](/2026/03/11/how-to-clean-ac-condenser-coils/) for a step-by-step walkthrough.
 
 ---
 
