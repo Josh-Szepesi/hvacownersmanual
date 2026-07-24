@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Variable Speed vs. Single Stage HVAC: What to Know Before Buying
+title: "Variable Speed vs. Single Stage HVAC: What to Know Before Buying"
 description: Understand the key differences between variable speed and single-stage HVAC systems to choose the right one for your home and budget.       
 date: 2026-06-06
 image: /assets/images/2026-06-06-variable-speed-vs-single-stage-hvac-what-to-know-before-buyi-hero.jpg
