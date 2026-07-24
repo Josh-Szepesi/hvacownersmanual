@@ -3,11 +3,13 @@ title: "Central AC vs. Mini-Split: Which Is Right for Your Home?"
 layout: post
 description: Compare central air conditioning and ductless mini-split systems. Learn the costs, efficiency, installation, and best use cases for each cooling option.
 date: 2026-06-19
-image: /assets/images/ac-vs-minisplit-hero.jpg
+image: /assets/images/ac-vs-minisplit-hero-20260724.jpg
 author: HVAC Owners Manual
 tags: [hvac, cooling, buying-guide, comparison]
 affiliate_disclaimer: true
 ---
+
+![Central AC vs. mini-split: which is right for your home?](/assets/images/ac-vs-minisplit-hero-20260724.jpg)
 This guide breaks down the real costs and benefits of each system so you can make an informed choice for your climate, home size, and budget.
 
 ## Understanding Central AC and Mini-Split Systems
