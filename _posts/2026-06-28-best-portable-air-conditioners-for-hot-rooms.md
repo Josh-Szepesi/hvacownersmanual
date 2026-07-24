@@ -3,11 +3,11 @@ layout: post
 title: 'Best Portable Air Conditioners for Hot Rooms: What to Know Before Buying'
 date: 2026-06-28 13:00:00 -0500
 description: Portable AC units vary wildly in real-world performance. Here's what homeowners need to know about BTU ratings, single vs. dual hose, and which units actuall...
-image: /assets/images/2026-06-28-best-portable-air-conditioners-for-hot-rooms-hero.jpg
+image: /assets/images/2026-06-28-best-portable-air-conditioners-for-hot-rooms-hero-20260724.jpg
 tags: [hvac, cooling, diy, ac]
 ---
 
-![Best Portable Air Conditioners for Hot Rooms: What to Know Before Buying](/assets/images/2026-06-28-best-portable-air-conditioners-for-hot-rooms-hero.jpg)
+![Best Portable Air Conditioners for Hot Rooms: What to Know Before Buying](/assets/images/2026-06-28-best-portable-air-conditioners-for-hot-rooms-hero-20260724.jpg)
 <p class="image-credit">Photo by <a href="https://unsplash.com/@claybanks?utm_source=hvacownersmanual&utm_medium=referral">Clay Banks</a> on <a href="https://unsplash.com/?utm_source=hvacownersmanual&utm_medium=referral">Unsplash</a></p>
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
