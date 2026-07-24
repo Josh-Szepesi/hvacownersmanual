@@ -6,6 +6,9 @@ description: Portable AC units vary wildly in real-world performance. Here's wha
 image: /assets/images/2026-06-28-best-portable-air-conditioners-for-hot-rooms-hero.jpg
 tags: [hvac, cooling, diy, ac]
 ---
+
+![Best Portable Air Conditioners for Hot Rooms: What to Know Before Buying](/assets/images/2026-06-28-best-portable-air-conditioners-for-hot-rooms-hero.jpg)
+<p class="image-credit">Photo by <a href="https://unsplash.com/@claybanks?utm_source=hvacownersmanual&utm_medium=referral">Clay Banks</a> on <a href="https://unsplash.com/?utm_source=hvacownersmanual&utm_medium=referral">Unsplash</a></p>
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Portable air conditioners sound ideal on paper: no installation, no window cutouts, move it from room to room as needed. In practice, many homeowners buy one and feel let down - the room doesn't cool as fast as expected, the unit is noisy, and the window kit looks awkward. That disappointment usually traces back to one thing: buying the wrong unit or misunderstanding how these machines actually work.
