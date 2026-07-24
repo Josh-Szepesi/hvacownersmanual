@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Heat pump vs. gas furnace: a total cost comparison
+title: "Heat pump vs. gas furnace: a total cost comparison"
 description: A total cost comparison of heat pumps vs gas furnaces for homeowners, covering installation, operating costs, and long-term savings.        
 date: 2026-05-26
 image: /assets/images/2026-05-26-heat-pump-vs-gas-furnace-a-total-cost-comparison-hero.jpg
